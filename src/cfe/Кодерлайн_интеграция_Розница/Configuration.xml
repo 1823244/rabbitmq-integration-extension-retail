@@ -75,14 +75,17 @@
 			<Constant>УзелОбменаRabbitMQ</Constant>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
+			<Catalog>Организации</Catalog>
 			<Document>ОтчетОРозничныхПродажах</Document>
 			<Document>ЧекККМ</Document>
 			<Document>ПеремещениеТоваров</Document>
+			<Document>ЗаказПокупателя</Document>
 			<Enum>ксп_СтатусыКачестваДокументов</Enum>
 			<Enum>ксп_ВидыПроблемКачестваДокументов</Enum>
 			<DataProcessor>ксп_РегистрацияКОбмену</DataProcessor>
 			<InformationRegister>ксп_ОтложенноеПроведение</InformationRegister>
 			<InformationRegister>ксп_ОтложенноеПроведениеПроблемы</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникОрганизации</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

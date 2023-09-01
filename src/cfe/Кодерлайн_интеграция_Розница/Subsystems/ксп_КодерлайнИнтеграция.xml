@@ -20,6 +20,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.ксп_РегистрацияКОбмену</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_ОтложенноеПроведение</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Enum.ксп_ВидыПроблемКачестваДокументов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникОрганизации</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_ОтложенноеПроведениеПроблемы</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
