@@ -1,42 +1,42 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
-	<InformationRegister uuid="02763179-b7e7-4946-aa61-2b946222aca3">
+	<InformationRegister uuid="52ce5519-16d0-49ba-bc82-af228a1c3bf0">
 		<InternalInfo>
-			<xr:GeneratedType name="InformationRegisterRecord.ксп_МэппингСправочникОрганизации" category="Record">
-				<xr:TypeId>c07bc75a-ef02-4ba4-bb42-1555587df4ca</xr:TypeId>
-				<xr:ValueId>0982b300-13b4-4976-8625-a5e70d2eb981</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecord.ксп_МэппингТипыСкладов" category="Record">
+				<xr:TypeId>66a1759f-2466-4887-b51a-69cedb9bd598</xr:TypeId>
+				<xr:ValueId>af7b6e5e-e15d-46f2-84a6-369e1428a039</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterManager.ксп_МэппингСправочникОрганизации" category="Manager">
-				<xr:TypeId>9de7fc63-c363-4262-976c-e51286e7688f</xr:TypeId>
-				<xr:ValueId>31d736a1-7392-47d9-a9d6-8e2b671a8711</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterManager.ксп_МэппингТипыСкладов" category="Manager">
+				<xr:TypeId>542d62a4-6f71-47f0-9d3f-89421aa09890</xr:TypeId>
+				<xr:ValueId>c3343077-ee86-40b2-a8af-ceee0bf7a0e5</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterSelection.ксп_МэппингСправочникОрганизации" category="Selection">
-				<xr:TypeId>5eb53d6b-9f2c-4715-ac00-855cee114bc4</xr:TypeId>
-				<xr:ValueId>caad550a-9290-4b09-a4bd-b807a05e87d2</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterSelection.ксп_МэппингТипыСкладов" category="Selection">
+				<xr:TypeId>cd32c527-3a68-475e-bf1d-11e5d123b8ce</xr:TypeId>
+				<xr:ValueId>4a63a460-065f-47aa-aec5-31171e6a5e5f</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterList.ксп_МэппингСправочникОрганизации" category="List">
-				<xr:TypeId>2a57a5c9-f5e7-4c92-8036-3384478e5cdd</xr:TypeId>
-				<xr:ValueId>9f57e80c-7db6-4202-b000-b36fed42b504</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterList.ксп_МэппингТипыСкладов" category="List">
+				<xr:TypeId>42a396bb-6291-43ba-ad09-09409d408bbc</xr:TypeId>
+				<xr:ValueId>810383ee-00cb-402b-b720-950a410b9a9a</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordSet.ксп_МэппингСправочникОрганизации" category="RecordSet">
-				<xr:TypeId>953d3376-d751-4168-a206-a91e9ae8dcd2</xr:TypeId>
-				<xr:ValueId>16a60ad3-68ec-463e-9f9b-3c4f7bdccd42</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordSet.ксп_МэппингТипыСкладов" category="RecordSet">
+				<xr:TypeId>88cc26a1-cc8d-4b60-81c2-afa12cc5cdff</xr:TypeId>
+				<xr:ValueId>9296a317-c190-44bc-945d-299a426e36a5</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordKey.ксп_МэппингСправочникОрганизации" category="RecordKey">
-				<xr:TypeId>4514ee92-21b6-4a96-8181-5d184f2af6c3</xr:TypeId>
-				<xr:ValueId>54a76aac-3ed1-4913-8945-077e78fcb397</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordKey.ксп_МэппингТипыСкладов" category="RecordKey">
+				<xr:TypeId>bb94eea1-3360-4e9d-b63a-11b0e3a4187d</xr:TypeId>
+				<xr:ValueId>6c6205f5-55b5-4d07-bada-b227d9a40e8b</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="InformationRegisterRecordManager.ксп_МэппингСправочникОрганизации" category="RecordManager">
-				<xr:TypeId>e66a57cd-2262-4d0b-85a9-c1b8df9e9bb1</xr:TypeId>
-				<xr:ValueId>5328085e-7101-43a4-b35a-2878b5e57096</xr:ValueId>
+			<xr:GeneratedType name="InformationRegisterRecordManager.ксп_МэппингТипыСкладов" category="RecordManager">
+				<xr:TypeId>3853bc72-77a1-4a72-bceb-dcbd6a106546</xr:TypeId>
+				<xr:ValueId>c3e49ca2-4ca9-41bd-b77b-d7766f997191</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ксп_МэппингСправочникОрганизации</Name>
+			<Name>ксп_МэппингТипыСкладов</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Мэппинг: справочник Организации</v8:content>
+					<v8:content>Мэппинг: типы складов</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -64,66 +64,18 @@
 			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
 		<ChildObjects>
-			<Resource uuid="2c474858-0963-4c63-b7e3-24564dd8ab94">
+			<Resource uuid="df0beaaf-d046-4fbb-aeab-797806dd1593">
 				<Properties>
-					<Name>Организация</Name>
+					<Name>ТипСклада</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Организация</v8:content>
+							<v8:content>Тип склада</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
-						<v8:Type>cfg:CatalogRef.Организации</v8:Type>
-					</Type>
-					<PasswordMode>false</PasswordMode>
-					<Format/>
-					<EditFormat/>
-					<ToolTip>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Организация, от имени которой оформляется документ</v8:content>
-						</v8:item>
-					</ToolTip>
-					<MarkNegatives>false</MarkNegatives>
-					<Mask/>
-					<MultiLine>false</MultiLine>
-					<ExtendedEdit>false</ExtendedEdit>
-					<MinValue xsi:nil="true"/>
-					<MaxValue xsi:nil="true"/>
-					<FillFromFillingValue>true</FillFromFillingValue>
-					<FillValue xsi:nil="true"/>
-					<FillChecking>ShowError</FillChecking>
-					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-					<ChoiceParameterLinks/>
-					<ChoiceParameters/>
-					<QuickChoice>Auto</QuickChoice>
-					<CreateOnInput>Auto</CreateOnInput>
-					<ChoiceForm/>
-					<LinkByType/>
-					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<Indexing>DontIndex</Indexing>
-					<FullTextSearch>Use</FullTextSearch>
-					<DataHistory>Use</DataHistory>
-				</Properties>
-			</Resource>
-			<Resource uuid="394df2d8-7bf5-4c25-a1a7-76fa8f7bf5bd">
-				<Properties>
-					<Name>Наименование</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Наименование</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-					<Type>
-						<v8:Type>xs:string</v8:Type>
-						<v8:StringQualifiers>
-							<v8:Length>250</v8:Length>
-							<v8:AllowedLength>Variable</v8:AllowedLength>
-						</v8:StringQualifiers>
+						<v8:Type>cfg:EnumRef.ТипыСкладов</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>
@@ -136,7 +88,7 @@
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
 					<FillFromFillingValue>false</FillFromFillingValue>
-					<FillValue xsi:type="xs:string"/>
+					<FillValue xsi:nil="true"/>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
@@ -151,20 +103,20 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Resource>
-			<Dimension uuid="6dff0f99-d520-486a-937c-f061b30b47b9">
+			<Dimension uuid="fef243ee-b4ce-4b4d-ab53-0e283a18ec68">
 				<Properties>
-					<Name>GUID</Name>
+					<Name>Значение</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>GUID</v8:content>
+							<v8:content>Значение</v8:content>
 						</v8:item>
 					</Synonym>
 					<Comment/>
 					<Type>
 						<v8:Type>xs:string</v8:Type>
 						<v8:StringQualifiers>
-							<v8:Length>36</v8:Length>
+							<v8:Length>50</v8:Length>
 							<v8:AllowedLength>Variable</v8:AllowedLength>
 						</v8:StringQualifiers>
 					</Type>

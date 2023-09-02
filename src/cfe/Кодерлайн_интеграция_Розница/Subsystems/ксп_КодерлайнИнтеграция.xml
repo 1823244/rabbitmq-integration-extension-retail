@@ -22,6 +22,11 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Enum.ксп_ВидыПроблемКачестваДокументов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникОрганизации</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_ОтложенноеПроведениеПроблемы</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникСклады</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингТипыСкладов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">ChartOfCharacteristicTypes.ксп_ВнешниеПеречисления</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ксп_ВнешниеПеречисления</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингПеречислений</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
