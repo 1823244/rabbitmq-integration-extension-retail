@@ -72,12 +72,15 @@
 		</Metadata>
 		<Metadata name="ExchangePlan.ксп_ОбменСЕРП" id="3c3b3256-e966-4cd2-8faf-9984530edb4f" configVersion="1d6cc0a42019888d0af565f0e566cbaecb8c635c"/>
 		<Metadata name="ExchangePlan.ксп_ОбменСЕРП.Content" id="3c3b3256-e966-4cd2-8faf-9984530edb4f.1" configVersion="806c5b5b8b9e613ae168463a5b879d6003d1612e"/>
-		<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений" id="32a5f704-4a7c-4723-9d2a-64d69ea2bb34" configVersion="0958896f37c62e95dd7342ec9e2b246400c7d705">
+		<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений" id="32a5f704-4a7c-4723-9d2a-64d69ea2bb34" configVersion="5e14c7d0f46f030ad152977572cab665a6cf7810">
 			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Resource.ТекстJson" id="027d0574-e72c-42bf-95ae-54324f10ee5b"/>
-			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Dimension.ДокСсылка" id="68588dca-63b7-409d-80c5-f1abf92e6832"/>
+			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Dimension.СсылкаНаОбъект" id="68588dca-63b7-409d-80c5-f1abf92e6832"/>
 			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Dimension.ПериодМс" id="6aef0430-a58d-44a8-8b45-9c7ea0cb2f9c"/>
+			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Attribute.МоментВремениЗаписи" id="945d2c7d-f5a0-4678-9ee5-dc8e4baafc95"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.ManagerModule" id="32a5f704-4a7c-4723-9d2a-64d69ea2bb34.2" configVersion="72a3bafb11792b90f1f3cebe8beb45b558c9249b"/>
+		<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Form.ФормаЗаписи" id="c3db544a-9861-4092-bfda-6b5e98f2e967" configVersion="3297e201b2c92a18c111a982ec39418a1924ac64"/>
+		<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Form.ФормаЗаписи.Form" id="c3db544a-9861-4092-bfda-6b5e98f2e967.0" configVersion="1d87f3111f7cfe895a838a62ac8d4dde3dc48778"/>
+		<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.ManagerModule" id="32a5f704-4a7c-4723-9d2a-64d69ea2bb34.2" configVersion="2a5fb5977aace3cc70bc6bd3146ec88ec9d1ed7c"/>
 		<Metadata name="InformationRegister.ксп_МэппингПеречислений" id="56e3ac59-b0f2-4578-9158-d085b0c3d57d" configVersion="122744c7f998b6281a2e2d1d6cea75f309cec971">
 			<Metadata name="InformationRegister.ксп_МэппингПеречислений.Dimension.ЗначениеПеречисленияСтрока" id="1c919a37-d856-41de-b557-90864ffe2e96"/>
 			<Metadata name="InformationRegister.ксп_МэппингПеречислений.Dimension.ЗначениеПеречисления" id="326b9776-af72-45de-9668-c653b3bb0400"/>
