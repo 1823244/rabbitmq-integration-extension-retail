@@ -42,7 +42,7 @@
 		<Metadata name="CommonModule.БлокировкаРаботыСВнешнимиРесурсамиПереопределяемый" id="158e129f-9a5a-4770-a64d-553d9d649027" configVersion="3a5e9af3572157ee95f433ce4ec618c05fa51166"/>
 		<Metadata name="CommonModule.БлокировкаРаботыСВнешнимиРесурсамиПереопределяемый.Module" id="158e129f-9a5a-4770-a64d-553d9d649027.0" configVersion="064868cfa6b1fbdb3a59ce29ddcc45a4a6c2cab6"/>
 		<Metadata name="CommonModule.ксп_ИмпортСлужебный" id="24c9f3eb-7351-4301-850f-281e51f2c7b6" configVersion="ddab8bfef28993930f6b7d2491c0d5ec8423a82f"/>
-		<Metadata name="CommonModule.ксп_ИмпортСлужебный.Module" id="24c9f3eb-7351-4301-850f-281e51f2c7b6.0" configVersion="e7c295780e23ace028485bc9bba672969a19394f"/>
+		<Metadata name="CommonModule.ксп_ИмпортСлужебный.Module" id="24c9f3eb-7351-4301-850f-281e51f2c7b6.0" configVersion="4a4b1fc85ea2bfb4ceb019351f9956fd4860eb25"/>
 		<Metadata name="CommonModule.ксп_ИмпортСлужебныйПовтИсп" id="fb0d4fe9-bacc-4b17-bbaa-b7ed99b50121" configVersion="f8583799db6188a4ab65f50571b05a79d6828e6f"/>
 		<Metadata name="CommonModule.ксп_ИмпортСлужебныйПовтИсп.Module" id="fb0d4fe9-bacc-4b17-bbaa-b7ed99b50121.0" configVersion="5d6daa791144a7e96ae562efd69cfe6077f89a14"/>
 		<Metadata name="CommonModule.ксп_РегламентныеЗадания" id="49f149fb-0dff-4f34-af37-a37737e53e24" configVersion="999607c31307892ee09d03927b61a70c56fe1ae3"/>
@@ -103,7 +103,7 @@
 			<Metadata name="InformationRegister.Штрихкоды.Dimension.Владелец" id="ded03d05-ea0a-43e5-9af1-8474c97646ea"/>
 			<Metadata name="InformationRegister.Штрихкоды.Dimension.Штрихкод" id="f488004f-b22c-41aa-9188-9406b8ae0a8c"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений" id="32a5f704-4a7c-4723-9d2a-64d69ea2bb34" configVersion="5e14c7d0f46f030ad152977572cab665a6cf7810">
+		<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений" id="32a5f704-4a7c-4723-9d2a-64d69ea2bb34" configVersion="f21daad888cb1584da054114593b8c295a276816">
 			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Resource.ТекстJson" id="027d0574-e72c-42bf-95ae-54324f10ee5b"/>
 			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Dimension.СсылкаНаОбъект" id="68588dca-63b7-409d-80c5-f1abf92e6832"/>
 			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Dimension.ПериодМс" id="6aef0430-a58d-44a8-8b45-9c7ea0cb2f9c"/>
