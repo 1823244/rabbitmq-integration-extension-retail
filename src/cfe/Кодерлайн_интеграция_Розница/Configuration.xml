@@ -72,7 +72,6 @@
 			<CommonModule>БлокировкаРаботыСВнешнимиРесурсамиПереопределяемый</CommonModule>
 			<CommonModule>ксп_ИмпортСлужебный</CommonModule>
 			<CommonModule>ксп_РегламентныеЗадания</CommonModule>
-			<CommonModule>ксп_ИмпортСлужебныйПовтИсп</CommonModule>
 			<ExchangePlan>ксп_ОбменСЕРП</ExchangePlan>
 			<ScheduledJob>ксп_ОтложенноеПроведение</ScheduledJob>
 			<ScheduledJob>ксп_ПроверкаКачестваДанных</ScheduledJob>
@@ -91,6 +90,7 @@
 			<Catalog>УпаковкиНоменклатуры</Catalog>
 			<Catalog>БазовыеЕдиницыИзмерения</Catalog>
 			<Catalog>ВидыНоменклатуры</Catalog>
+			<Catalog>Контрагенты</Catalog>
 			<Document>ОтчетОРозничныхПродажах</Document>
 			<Document>ЧекККМ</Document>
 			<Document>ПеремещениеТоваров</Document>
@@ -105,11 +105,11 @@
 			<InformationRegister>ксп_МэппингСправочникСклады</InformationRegister>
 			<InformationRegister>ксп_ИсходныеДанныеСообщений</InformationRegister>
 			<InformationRegister>ксп_МэппингТипыСкладов</InformationRegister>
-			<InformationRegister>ксп_МэппингПеречислений</InformationRegister>
 			<InformationRegister>Штрихкоды</InformationRegister>
 			<InformationRegister>ксп_МэппингСкладМагазин</InformationRegister>
 			<InformationRegister>ксп_МэппингПричинаОтменыЗаказаКлиента</InformationRegister>
 			<InformationRegister>ксп_МэппингВидыНоменклатуры</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникКонтрагенты</InformationRegister>
 			<ChartOfCharacteristicTypes>ксп_ВнешниеПеречисления</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ТипыШтрихкодов</ChartOfCharacteristicTypes>
 		</ChildObjects>
