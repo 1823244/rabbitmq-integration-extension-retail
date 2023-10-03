@@ -91,10 +91,13 @@
 			<Catalog>БазовыеЕдиницыИзмерения</Catalog>
 			<Catalog>ВидыНоменклатуры</Catalog>
 			<Catalog>Контрагенты</Catalog>
+			<Catalog>СерииНоменклатуры</Catalog>
+			<Catalog>Пользователи</Catalog>
 			<Document>ОтчетОРозничныхПродажах</Document>
 			<Document>ЧекККМ</Document>
 			<Document>ПеремещениеТоваров</Document>
 			<Document>ЗаказПокупателя</Document>
+			<Document>ПриходныйОрдерНаТовары</Document>
 			<Enum>ксп_СтатусыКачестваДокументов</Enum>
 			<Enum>ксп_ВидыПроблемКачестваДокументов</Enum>
 			<Enum>ТипыСкладов</Enum>
@@ -110,6 +113,13 @@
 			<InformationRegister>ксп_МэппингПричинаОтменыЗаказаКлиента</InformationRegister>
 			<InformationRegister>ксп_МэппингВидыНоменклатуры</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникКонтрагенты</InformationRegister>
+			<InformationRegister>ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП</InformationRegister>
+			<InformationRegister>ксп_РасходныйОрдерНаТовары_ЕРП</InformationRegister>
+			<InformationRegister>ксп_РасходныйОрдерНаТовары_ЕРП_ТоварыПоРаспоряжениям</InformationRegister>
+			<InformationRegister>ксп_РасходныйОрдерНаТовары_ЕРП_ОтгружаемыеТовары</InformationRegister>
+			<InformationRegister>ксп_ЗаказНаПеремещение_ЕРП</InformationRegister>
+			<InformationRegister>ксп_ЗаказНаПеремещение_ЕРП_Товары</InformationRegister>
+			<InformationRegister>ксп_ЗаказНаПеремещение_ЕРП_ДополнительныеРеквизиты</InformationRegister>
 			<ChartOfCharacteristicTypes>ксп_ВнешниеПеречисления</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ТипыШтрихкодов</ChartOfCharacteristicTypes>
 		</ChildObjects>
