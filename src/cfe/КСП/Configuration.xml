@@ -73,8 +73,6 @@
 			<CommonModule>ксп_ИмпортСлужебный</CommonModule>
 			<CommonModule>ксп_РегламентныеЗадания</CommonModule>
 			<ExchangePlan>ксп_ОбменСЕРП</ExchangePlan>
-			<ScheduledJob>ксп_ОтложенноеПроведение</ScheduledJob>
-			<ScheduledJob>ксп_ПроверкаКачестваДанных</ScheduledJob>
 			<Constant>УзелОбменаRabbitMQ</Constant>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
@@ -93,6 +91,9 @@
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>СерииНоменклатуры</Catalog>
 			<Catalog>Пользователи</Catalog>
+			<Catalog>ДоговорыКонтрагентов</Catalog>
+			<Catalog>ТоварныеГруппы</Catalog>
+			<Catalog>СкидкиНаценки</Catalog>
 			<Document>ОтчетОРозничныхПродажах</Document>
 			<Document>ЧекККМ</Document>
 			<Document>ПеремещениеТоваров</Document>
@@ -101,6 +102,7 @@
 			<Enum>ксп_СтатусыКачестваДокументов</Enum>
 			<Enum>ксп_ВидыПроблемКачестваДокументов</Enum>
 			<Enum>ТипыСкладов</Enum>
+			<Enum>ТипыСистемНалогообложенияККТ</Enum>
 			<DataProcessor>ксп_РегистрацияКОбмену</DataProcessor>
 			<InformationRegister>ксп_ОтложенноеПроведение</InformationRegister>
 			<InformationRegister>ксп_ОтложенноеПроведениеПроблемы</InformationRegister>
@@ -120,6 +122,8 @@
 			<InformationRegister>ксп_ЗаказНаПеремещение_ЕРП</InformationRegister>
 			<InformationRegister>ксп_ЗаказНаПеремещение_ЕРП_Товары</InformationRegister>
 			<InformationRegister>ксп_ЗаказНаПеремещение_ЕРП_ДополнительныеРеквизиты</InformationRegister>
+			<InformationRegister>ПрименениеСистемНалогообложения</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникСкидкиНаценки</InformationRegister>
 			<ChartOfCharacteristicTypes>ксп_ВнешниеПеречисления</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ТипыШтрихкодов</ChartOfCharacteristicTypes>
 		</ChildObjects>

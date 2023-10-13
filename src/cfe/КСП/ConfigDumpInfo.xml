@@ -7,6 +7,7 @@
 			<Metadata name="Catalog.БанковскиеСчета.Attribute.Банк" id="8f2669a6-6a28-4a25-b526-67a4204fc61f"/>
 		</Metadata>
 		<Metadata name="Catalog.ВидыНоменклатуры" id="60891444-b828-4d8d-ae82-b2e2281584b7" configVersion="b25d810ed1ab219eec27a4e3e4607342ffc35dda"/>
+		<Metadata name="Catalog.ДоговорыКонтрагентов" id="12e6b02e-99f2-4bff-af82-daaacc8b98c7" configVersion="dca82505c64d0732e3a6118ed6b889e9a09a2fd9"/>
 		<Metadata name="Catalog.ИнформационныеКарты" id="ccf62414-55dd-4f0c-9a35-d3145ea23c81" configVersion="996b2958835ccd50ea8bcc732c4f28410363ab57">
 			<Metadata name="Catalog.ИнформационныеКарты.Attribute.КодКарты" id="bddee9ff-7c7d-4826-bd3f-9b25b32ae880"/>
 		</Metadata>
@@ -24,7 +25,9 @@
 			<Metadata name="Catalog.СерииНоменклатуры.Attribute.ВладелецСерии" id="c8ead83d-0fbc-40b3-8a84-3d8c9a178089"/>
 			<Metadata name="Catalog.СерииНоменклатуры.Attribute.Номер" id="d67f3ad3-6e96-4db5-b31d-d73d72deedb6"/>
 		</Metadata>
+		<Metadata name="Catalog.СкидкиНаценки" id="be224bc8-5c5e-410d-9fc0-77003c74b278" configVersion="9e1c56e646011e22f5a6da040278de233fc39527"/>
 		<Metadata name="Catalog.Склады" id="d7008615-f704-4afb-9624-d69d0444ff1f" configVersion="53274484bf1032751ade2f27ab6392b6b3462811"/>
+		<Metadata name="Catalog.ТоварныеГруппы" id="bce90006-0752-4f32-9388-1737786ac3e1" configVersion="de195041fda40fb03b24b99a962f56aebe40e662"/>
 		<Metadata name="Catalog.УпаковкиНоменклатуры" id="ceef47dc-2f09-4c98-875a-81ef0803b840" configVersion="bc9e10c1ab97965bb7abcf48183969cfa6e062b2">
 			<Metadata name="Catalog.УпаковкиНоменклатуры.Attribute.ЕдиницаИзмерения" id="6f86474e-1533-40df-94f4-f4509b02dfdd"/>
 		</Metadata>
@@ -48,14 +51,14 @@
 		<Metadata name="CommonModule.БлокировкаРаботыСВнешнимиРесурсамиПереопределяемый" id="158e129f-9a5a-4770-a64d-553d9d649027" configVersion="3a5e9af3572157ee95f433ce4ec618c05fa51166"/>
 		<Metadata name="CommonModule.БлокировкаРаботыСВнешнимиРесурсамиПереопределяемый.Module" id="158e129f-9a5a-4770-a64d-553d9d649027.0" configVersion="064868cfa6b1fbdb3a59ce29ddcc45a4a6c2cab6"/>
 		<Metadata name="CommonModule.ксп_ИмпортСлужебный" id="24c9f3eb-7351-4301-850f-281e51f2c7b6" configVersion="ddab8bfef28993930f6b7d2491c0d5ec8423a82f"/>
-		<Metadata name="CommonModule.ксп_ИмпортСлужебный.Module" id="24c9f3eb-7351-4301-850f-281e51f2c7b6.0" configVersion="25f8a4033e5da583310bc6774f153fe664c5ba9c"/>
+		<Metadata name="CommonModule.ксп_ИмпортСлужебный.Module" id="24c9f3eb-7351-4301-850f-281e51f2c7b6.0" configVersion="320cefd4beb437ae85cc86a78fba666aa80c8432"/>
 		<Metadata name="CommonModule.ксп_РегламентныеЗадания" id="49f149fb-0dff-4f34-af37-a37737e53e24" configVersion="999607c31307892ee09d03927b61a70c56fe1ae3"/>
 		<Metadata name="CommonModule.ксп_РегламентныеЗадания.Module" id="49f149fb-0dff-4f34-af37-a37737e53e24.0" configVersion="e5eaaf33ae923b3256d6395dce1889e0eed8460d"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный" id="af4e9f25-cec3-4e30-8a49-02c78b713528" configVersion="ac3b8e9e37f144e54107ceab362b34bc8ee9c122"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="af4e9f25-cec3-4e30-8a49-02c78b713528.0" configVersion="b2ec8c9497929dabe1c4d356116e88c9de8dc4c9"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d" configVersion="24d95ece84373faafe72c820bb69420519dd3e0f"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп.Module" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d.0" configVersion="964c6d700510de79a06db378c54e775e079a48fe"/>
-		<Metadata name="Configuration.КСП" id="6e697993-1eb3-4989-81da-176f3ddfad76" configVersion="b79d2f489483a3cc384f79ffdc22e7fad236cd79"/>
+		<Metadata name="Configuration.КСП" id="6e697993-1eb3-4989-81da-176f3ddfad76" configVersion="cc3700990371a220cddea8cefbd062ec3e90429e"/>
 		<Metadata name="Constant.УзелОбменаRabbitMQ" id="cf982a21-41b2-43a3-895d-569955aad763" configVersion="f05057e95643fb3f9f309270ea3f6306a25f8d18"/>
 		<Metadata name="DataProcessor.ксп_РегистрацияКОбмену" id="b140d2cc-c7f3-4f4e-bd4e-f344ab57c3c0" configVersion="a22a052c357a94e4c22b34953529aea3e8ebeef3">
 			<Metadata name="DataProcessor.ксп_РегистрацияКОбмену.Attribute.НастройкаКонтрольВыгрузкиОбъектов" id="364f1017-ffc0-487e-b2fe-d5f73b512a82"/>
@@ -89,6 +92,7 @@
 		<Metadata name="Document.ПеремещениеТоваров" id="9e9be52a-7197-4373-8235-afed6d9fa21a" configVersion="0408bfea55dc5863d66ad05f21de967d211965c0"/>
 		<Metadata name="Document.ПриходныйОрдерНаТовары" id="2bbbea5d-64e5-4f0d-9b4b-5399d58515fb" configVersion="0e4a8634147d67924f0e03b4ac724e4b3a5ac507"/>
 		<Metadata name="Document.ЧекККМ" id="0ec63eae-d1c4-4b8c-8a8a-606e0180deb3" configVersion="12aa0baaaee07850f3543ae0f70575763e204e5c"/>
+		<Metadata name="Enum.ТипыСистемНалогообложенияККТ" id="1d3df485-097b-4040-99ec-7acbc8dad53b" configVersion="21b103788ba1ebfbd8d90622ac52c707c7982fca"/>
 		<Metadata name="Enum.ТипыСкладов" id="9e7e8b11-1b02-4541-b825-bb0117903bd9" configVersion="09e05418c06b531eecb76fee44235abadb62e141">
 			<Metadata name="Enum.ТипыСкладов.EnumValue.ТорговыйЗал" id="b31ec3d2-f629-430c-9e58-b82cd5c05d19"/>
 			<Metadata name="Enum.ТипыСкладов.EnumValue.СкладскоеПомещение" id="b6a2065b-237c-4510-a075-c32effc110d4"/>
@@ -104,6 +108,14 @@
 		</Metadata>
 		<Metadata name="ExchangePlan.ксп_ОбменСЕРП" id="3c3b3256-e966-4cd2-8faf-9984530edb4f" configVersion="1d6cc0a42019888d0af565f0e566cbaecb8c635c"/>
 		<Metadata name="ExchangePlan.ксп_ОбменСЕРП.Content" id="3c3b3256-e966-4cd2-8faf-9984530edb4f.1" configVersion="806c5b5b8b9e613ae168463a5b879d6003d1612e"/>
+		<Metadata name="InformationRegister.ПрименениеСистемНалогообложения" id="e8ecef7d-4234-4998-879f-b11d53304559" configVersion="4790c32730f59306663e303272addbc7471e694f">
+			<Metadata name="InformationRegister.ПрименениеСистемНалогообложения.Dimension.Магазин" id="5f7170cd-f62d-4a38-95f1-8303d1e704d1"/>
+			<Metadata name="InformationRegister.ПрименениеСистемНалогообложения.Dimension.Организация" id="9bb9ae45-3f8e-41bd-853b-f466b11f6e33"/>
+			<Metadata name="InformationRegister.ПрименениеСистемНалогообложения.Resource.СистемаНалогообложения" id="9c8782a2-a393-4c83-bded-32c915fe0300"/>
+			<Metadata name="InformationRegister.ПрименениеСистемНалогообложения.Resource.ОсвобожденОтНДС" id="c1555f87-f49f-48fa-b2b3-dca777d6cc31"/>
+			<Metadata name="InformationRegister.ПрименениеСистемНалогообложения.Dimension.Склад" id="d9dc52fd-b2ea-4208-9651-0fa98c8088a1"/>
+			<Metadata name="InformationRegister.ПрименениеСистемНалогообложения.Dimension.ТоварнаяГруппа" id="ee5f284a-210e-4218-8083-fd609777514b"/>
+		</Metadata>
 		<Metadata name="InformationRegister.Штрихкоды" id="5d50b921-9a03-4aa4-9c75-16206fa6b8f4" configVersion="607cca8bf14de8e2232bdf0a791f3ce9e8193f12">
 			<Metadata name="InformationRegister.Штрихкоды.Dimension.Владелец" id="ded03d05-ea0a-43e5-9af1-8474c97646ea"/>
 			<Metadata name="InformationRegister.Штрихкоды.Dimension.Штрихкод" id="f488004f-b22c-41aa-9188-9406b8ae0a8c"/>
@@ -242,6 +254,13 @@
 			<Metadata name="InformationRegister.ксп_МэппингСправочникОрганизации.Dimension.GUID" id="6dff0f99-d520-486a-937c-f061b30b47b9"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_МэппингСправочникОрганизации.ManagerModule" id="02763179-b7e7-4946-aa61-2b946222aca3.2" configVersion="4a2b1d7a7c97a0f9526f70b01daa2513c09586da"/>
+		<Metadata name="InformationRegister.ксп_МэппингСправочникСкидкиНаценки" id="2a4f834e-29d4-4490-82f2-c11b52f45974" configVersion="d88c3c7da2753f0ae9a0cc9c92c494492242b8a2">
+			<Metadata name="InformationRegister.ксп_МэппингСправочникСкидкиНаценки.Resource.Наименование" id="3589385d-a953-4d4e-becf-e0a543548ba8"/>
+			<Metadata name="InformationRegister.ксп_МэппингСправочникСкидкиНаценки.Dimension.ВнешняяСистема" id="a537fe31-d354-4117-b925-ba26973b55b1"/>
+			<Metadata name="InformationRegister.ксп_МэппингСправочникСкидкиНаценки.Resource.СкидкаНаценка" id="ac0faf8d-48be-4ffc-9b99-59e56b7da081"/>
+			<Metadata name="InformationRegister.ксп_МэппингСправочникСкидкиНаценки.Dimension.GUID" id="ffa409c1-d208-4a68-b86e-7809f5b74547"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ксп_МэппингСправочникСкидкиНаценки.ManagerModule" id="2a4f834e-29d4-4490-82f2-c11b52f45974.2" configVersion="bad92e376e81f4a72a0a05b656beee5e24f2ccac"/>
 		<Metadata name="InformationRegister.ксп_МэппингСправочникСклады" id="36b211ed-7b01-4c81-a70c-dea36f390c85" configVersion="694cf9b6f3bcf9817e05196cdc37dcf12048ae6a">
 			<Metadata name="InformationRegister.ксп_МэппингСправочникСклады.Dimension.GUID" id="2ab27187-bd31-403f-89ff-384d7bd36b2a"/>
 			<Metadata name="InformationRegister.ксп_МэппингСправочникСклады.Resource.Склад" id="3ec9a672-77fc-475d-bf1c-2a45982879d8"/>
@@ -324,8 +343,6 @@
 		</Metadata>
 		<Metadata name="Language.Русский" id="cb75d87f-3b76-4bbf-908c-8c01681dc876" configVersion="403163a546ebaa6432af96351ca67ed89b1e83e8"/>
 		<Metadata name="Role.ксп_ОсновнаяРоль" id="ad83386e-a41b-4fd9-a8e0-f188f2a2319d" configVersion="2558786675e9a5465025a6a66e898685d930bc46"/>
-		<Metadata name="ScheduledJob.ксп_ОтложенноеПроведение" id="55060125-6840-4dc4-848d-14127e22598f" configVersion="d0b4a7dbbb295f14b33629d9c4f5c7cb1bbce6a6"/>
-		<Metadata name="ScheduledJob.ксп_ПроверкаКачестваДанных" id="812cadea-ec6a-4080-9467-4bbbbf4ddca7" configVersion="3ff859f6f7b0acec28d07487eed9bccae5af1f23"/>
-		<Metadata name="Subsystem.ксп_КодерлайнИнтеграция" id="dd7784a3-d103-4f97-8ab2-f7bdda87a4ca" configVersion="42b01a81ffd10f63cf4e97e4fa1569fe20acdb8b"/>
+		<Metadata name="Subsystem.ксп_КодерлайнИнтеграция" id="dd7784a3-d103-4f97-8ab2-f7bdda87a4ca" configVersion="b1a581c0accf7cad654cb1fb0b7f4aebdc022f34"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
