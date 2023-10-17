@@ -209,7 +209,7 @@
 			<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.Attribute.ТекстОшибки" id="d71e8396-b9df-4ccb-ac46-eae879e7b1e8"/>
 			<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.Dimension.РасходныйОрдерГУИД" id="e3527f6f-fd17-46b7-8aab-bcd87f14c077"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.ManagerModule" id="73b86aa0-37a8-4fca-bad8-65b1d12b034b.2" configVersion="7edf660174937c5bf31f0ead4cca992931642436"/>
+		<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.ManagerModule" id="73b86aa0-37a8-4fca-bad8-65b1d12b034b.2" configVersion="c178077ccf958e778e859c15e361cd8cba3e38b3"/>
 		<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений" id="32a5f704-4a7c-4723-9d2a-64d69ea2bb34" configVersion="57bd8181dedbf44335fa870092f070f1e2c79d23">
 			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Resource.ТекстJson" id="027d0574-e72c-42bf-95ae-54324f10ee5b"/>
 			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Dimension.ВнешняяСистема" id="101bf037-a79e-4bf5-9912-e1b16f92b755"/>
