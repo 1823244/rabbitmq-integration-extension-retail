@@ -55,7 +55,7 @@
 		<Metadata name="CommonModule.ксп_РегламентныеЗадания" id="49f149fb-0dff-4f34-af37-a37737e53e24" configVersion="999607c31307892ee09d03927b61a70c56fe1ae3"/>
 		<Metadata name="CommonModule.ксп_РегламентныеЗадания.Module" id="49f149fb-0dff-4f34-af37-a37737e53e24.0" configVersion="e5eaaf33ae923b3256d6395dce1889e0eed8460d"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный" id="af4e9f25-cec3-4e30-8a49-02c78b713528" configVersion="ac3b8e9e37f144e54107ceab362b34bc8ee9c122"/>
-		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="af4e9f25-cec3-4e30-8a49-02c78b713528.0" configVersion="b2ec8c9497929dabe1c4d356116e88c9de8dc4c9"/>
+		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="af4e9f25-cec3-4e30-8a49-02c78b713528.0" configVersion="c61e0b544ea8b54ee2bb96bed9a954f79c664007"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d" configVersion="24d95ece84373faafe72c820bb69420519dd3e0f"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп.Module" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d.0" configVersion="964c6d700510de79a06db378c54e775e079a48fe"/>
 		<Metadata name="Configuration.КСП" id="6e697993-1eb3-4989-81da-176f3ddfad76" configVersion="cc3700990371a220cddea8cefbd062ec3e90429e"/>
