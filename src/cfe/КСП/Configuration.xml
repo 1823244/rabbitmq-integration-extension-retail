@@ -94,6 +94,8 @@
 			<Catalog>ДоговорыКонтрагентов</Catalog>
 			<Catalog>ТоварныеГруппы</Catalog>
 			<Catalog>СкидкиНаценки</Catalog>
+			<Catalog>Кассы</Catalog>
+			<Catalog>КассыККМ</Catalog>
 			<Document>ОтчетОРозничныхПродажах</Document>
 			<Document>ЧекККМ</Document>
 			<Document>ПеремещениеТоваров</Document>
