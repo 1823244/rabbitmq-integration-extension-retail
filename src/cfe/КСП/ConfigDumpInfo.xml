@@ -228,7 +228,7 @@
 			<Metadata name="InformationRegister.ксп_МэппингВидыНоменклатуры.Dimension.GUID" id="5778d403-063d-4ccd-b6de-e2ead3a6c84e"/>
 			<Metadata name="InformationRegister.ксп_МэппингВидыНоменклатуры.Resource.Наименование" id="edc0585c-b9c1-4002-b40f-722064a573f8"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ксп_МэппингВидыНоменклатуры.ManagerModule" id="5b9b7509-a000-448d-9e03-a5a41eaee63c.2" configVersion="741db02ab799b57fc70de5ad2aa30c8f36d495c8"/>
+		<Metadata name="InformationRegister.ксп_МэппингВидыНоменклатуры.ManagerModule" id="5b9b7509-a000-448d-9e03-a5a41eaee63c.2" configVersion="9cfb948732f222bcfa02a248e63cabda130239c8"/>
 		<Metadata name="InformationRegister.ксп_МэппингПричинаОтменыЗаказаКлиента" id="57e37a1d-5369-4a11-bb9a-55be22af7230" configVersion="a716fcff9a24a54aca2e730ecd2f2fbeaf00dab8">
 			<Metadata name="InformationRegister.ксп_МэппингПричинаОтменыЗаказаКлиента.Resource.ПричинаОтмены" id="3d9845f0-8772-4b4d-93f3-773ac86cffc5"/>
 			<Metadata name="InformationRegister.ксп_МэппингПричинаОтменыЗаказаКлиента.Dimension.ВнешняяСистема" id="63e89470-d5bc-4947-8a1d-4564d485f9b7"/>
