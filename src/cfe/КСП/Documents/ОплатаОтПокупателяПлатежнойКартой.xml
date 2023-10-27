@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Document uuid="30b6dede-7e47-4154-8f72-4b39cd253ca8">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ОплатаОтПокупателяПлатежнойКартой" category="Object">
+				<xr:TypeId>268f1a0c-40cd-45f0-a69b-27fa04a38fb1</xr:TypeId>
+				<xr:ValueId>fa78b36a-6366-4236-830c-efb1a6c9d961</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ОплатаОтПокупателяПлатежнойКартой" category="Ref">
+				<xr:TypeId>59950f3e-dffe-4f3a-9226-e8cc9b60cb73</xr:TypeId>
+				<xr:ValueId>05aad3bf-0b90-4de5-bd6c-8f1a14184a02</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ОплатаОтПокупателяПлатежнойКартой" category="Selection">
+				<xr:TypeId>0ad04368-1f89-4483-ba8a-5acc5961d66f</xr:TypeId>
+				<xr:ValueId>db5153d4-7993-4201-86fc-68bf3e1de2ad</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ОплатаОтПокупателяПлатежнойКартой" category="List">
+				<xr:TypeId>1330cb48-d2f7-496e-b1f3-27dea9379218</xr:TypeId>
+				<xr:ValueId>17ccbd12-8241-42c3-9403-a30f67df6301</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ОплатаОтПокупателяПлатежнойКартой" category="Manager">
+				<xr:TypeId>f889e291-6c44-4c10-af8c-d45a7cdc43d0</xr:TypeId>
+				<xr:ValueId>decbac7b-dd57-4b1c-94d7-7932cc497d3b</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ОплатаОтПокупателяПлатежнойКартой</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>49f82e58-4a06-4f7d-8490-b7487fe21c91</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

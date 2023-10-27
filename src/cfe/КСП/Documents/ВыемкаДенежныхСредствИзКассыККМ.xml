@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Document uuid="103ef4df-4dcf-4070-87cb-a63ef282314b">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ВыемкаДенежныхСредствИзКассыККМ" category="Object">
+				<xr:TypeId>b1b6c451-c8ed-46e5-825d-c992c67e46ed</xr:TypeId>
+				<xr:ValueId>a3b4f358-b559-4191-a6d3-5653725ff021</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ВыемкаДенежныхСредствИзКассыККМ" category="Ref">
+				<xr:TypeId>426171fb-39f1-4cac-b90f-23ff8bd47d15</xr:TypeId>
+				<xr:ValueId>677c6442-4f58-4e99-b107-262f003acc97</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ВыемкаДенежныхСредствИзКассыККМ" category="Selection">
+				<xr:TypeId>f21d3015-fe65-49a6-a396-9b4dedc69f1c</xr:TypeId>
+				<xr:ValueId>c453517f-dc50-439f-82a6-932aba59e3ea</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ВыемкаДенежныхСредствИзКассыККМ" category="List">
+				<xr:TypeId>bb561a61-3f81-42c9-90b6-4beabc07a530</xr:TypeId>
+				<xr:ValueId>17080a26-0b2e-4329-ab8a-f053f7c428bf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ВыемкаДенежныхСредствИзКассыККМ" category="Manager">
+				<xr:TypeId>7b6304f2-11a3-41ac-ba2f-84d16f6ab70d</xr:TypeId>
+				<xr:ValueId>28151b30-b43e-47c7-a0c4-bf3ae0a4e1d5</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВыемкаДенежныхСредствИзКассыККМ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>817704eb-8ec7-4b1e-9fc0-c7c03eda47f6</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

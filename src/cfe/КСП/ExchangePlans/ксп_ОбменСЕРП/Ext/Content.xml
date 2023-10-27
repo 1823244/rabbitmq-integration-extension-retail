@@ -9,7 +9,15 @@
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.ВыемкаДенежныхСредствИзКассыККМ</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Catalog.ДоговорыКонтрагентов</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.ПересортицаТоваров</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
@@ -17,7 +25,19 @@
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.ОплатаОтПокупателяПлатежнойКартой</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.ЧекКоррекции</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Catalog.НаборыУпаковок</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.ЗаказНаПеремещение</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
@@ -26,6 +46,10 @@
 	</Item>
 	<Item>
 		<Metadata>Catalog.Магазины</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.ВозвратТоваровОтПокупателя</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
@@ -38,6 +62,10 @@
 	</Item>
 	<Item>
 		<Metadata>Catalog.Кассы</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.РасходныйКассовыйОрдер</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
@@ -69,6 +97,10 @@
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.ПриходныйКассовыйОрдер</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Catalog.ТоварныеГруппы</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
@@ -81,7 +113,15 @@
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.ОприходованиеТоваров</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Catalog.ИнформационныеКарты</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.РеализацияТоваров</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
@@ -89,7 +129,19 @@
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Catalog.СтатьиДвиженияДенежныхСредств</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.РасходныйОрдерНаТовары</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Catalog.Склады</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.СписаниеТоваров</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
@@ -98,6 +150,10 @@
 	</Item>
 	<Item>
 		<Metadata>Catalog.ПричиныОтменыЗаказовПокупателей</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Document.ВнесениеДенежныхСредствВКассуККМ</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 </ExchangePlanContent>

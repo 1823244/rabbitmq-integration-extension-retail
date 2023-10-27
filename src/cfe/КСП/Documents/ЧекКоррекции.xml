@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Document uuid="31bfe7a1-c9f4-4d38-9444-e47247909ae3">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЧекКоррекции" category="Object">
+				<xr:TypeId>8a6cd353-24d3-42db-94c0-a6a91c9344a7</xr:TypeId>
+				<xr:ValueId>b5050bc2-09f7-43e6-93ec-7014381c0738</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЧекКоррекции" category="Ref">
+				<xr:TypeId>6fa688ca-372f-4bfb-a227-e17155bf3afd</xr:TypeId>
+				<xr:ValueId>e7252c37-b6d1-4318-8762-59b1da3d21a9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЧекКоррекции" category="Selection">
+				<xr:TypeId>4b470ec3-02b3-4daf-aaef-bac9abca2ddf</xr:TypeId>
+				<xr:ValueId>4717f47a-637c-48db-8bca-8d5975c2ff5e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЧекКоррекции" category="List">
+				<xr:TypeId>5d807b37-7ab9-44e0-a1bb-56ab143f1b7c</xr:TypeId>
+				<xr:ValueId>fd46bace-be4c-49a4-90de-1a47facaf12b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЧекКоррекции" category="Manager">
+				<xr:TypeId>a6af8553-dde1-4051-a9b0-e1f60ff4173a</xr:TypeId>
+				<xr:ValueId>315a1906-1419-4957-8ef0-e42e076ce084</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЧекКоррекции</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>a2c96db8-0597-4b3e-a21f-efac07fd5604</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

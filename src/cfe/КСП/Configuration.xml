@@ -96,11 +96,27 @@
 			<Catalog>СкидкиНаценки</Catalog>
 			<Catalog>Кассы</Catalog>
 			<Catalog>КассыККМ</Catalog>
+			<Catalog>СтатьиДвиженияДенежныхСредств</Catalog>
+			<Catalog>ХарактеристикиНоменклатуры</Catalog>
+			<Catalog>ВидыЦен</Catalog>
 			<Document>ОтчетОРозничныхПродажах</Document>
 			<Document>ЧекККМ</Document>
 			<Document>ПеремещениеТоваров</Document>
 			<Document>ЗаказПокупателя</Document>
 			<Document>ПриходныйОрдерНаТовары</Document>
+			<Document>ВнесениеДенежныхСредствВКассуККМ</Document>
+			<Document>ВыемкаДенежныхСредствИзКассыККМ</Document>
+			<Document>ЗаказНаПеремещение</Document>
+			<Document>ВозвратТоваровОтПокупателя</Document>
+			<Document>РеализацияТоваров</Document>
+			<Document>ОплатаОтПокупателяПлатежнойКартой</Document>
+			<Document>ЧекКоррекции</Document>
+			<Document>ПриходныйКассовыйОрдер</Document>
+			<Document>РасходныйКассовыйОрдер</Document>
+			<Document>РасходныйОрдерНаТовары</Document>
+			<Document>ОприходованиеТоваров</Document>
+			<Document>ПересортицаТоваров</Document>
+			<Document>СписаниеТоваров</Document>
 			<Enum>ксп_СтатусыКачестваДокументов</Enum>
 			<Enum>ксп_ВидыПроблемКачестваДокументов</Enum>
 			<Enum>ТипыСкладов</Enum>
@@ -126,6 +142,8 @@
 			<InformationRegister>ксп_ЗаказНаПеремещение_ЕРП_ДополнительныеРеквизиты</InformationRegister>
 			<InformationRegister>ПрименениеСистемНалогообложения</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникСкидкиНаценки</InformationRegister>
+			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
+			<InformationRegister>ксп_ДополнительныеНастройкиИнтеграций</InformationRegister>
 			<ChartOfCharacteristicTypes>ксп_ВнешниеПеречисления</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ТипыШтрихкодов</ChartOfCharacteristicTypes>
 		</ChildObjects>
