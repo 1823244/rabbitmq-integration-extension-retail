@@ -126,31 +126,32 @@
 			<Enum>РолиАссортимента</Enum>
 			<Enum>СтадииАссортимента</Enum>
 			<DataProcessor>ксп_РегистрацияКОбмену</DataProcessor>
+			<InformationRegister>ксп_ДополнительныеНастройкиИнтеграций</InformationRegister>
+			<InformationRegister>ксп_ЗаказНаПеремещение_ЕРП</InformationRegister>
+			<InformationRegister>ксп_ЗаказНаПеремещение_ЕРП_ДополнительныеРеквизиты</InformationRegister>
+			<InformationRegister>ксп_ЗаказНаПеремещение_ЕРП_Товары</InformationRegister>
+			<InformationRegister>ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП</InformationRegister>
+			<InformationRegister>ксп_ИсходныеДанныеСообщений</InformationRegister>
+			<InformationRegister>ксп_МэппингВидыНоменклатуры</InformationRegister>
+			<InformationRegister>ксп_МэппингПричинаОтменыЗаказаКлиента</InformationRegister>
+			<InformationRegister>ксп_МэппингСкладМагазин</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникВидыЦен</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникКассы</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникКонтрагенты</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникОрганизации</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникСкидкиНаценки</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникСклады</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникСтатьиДДС</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникФорматыМагазинов</InformationRegister>
+			<InformationRegister>ксп_МэппингТипыСкладов</InformationRegister>
 			<InformationRegister>ксп_ОтложенноеПроведение</InformationRegister>
 			<InformationRegister>ксп_ОтложенноеПроведениеПроблемы</InformationRegister>
-			<InformationRegister>ксп_МэппингСправочникОрганизации</InformationRegister>
-			<InformationRegister>ксп_МэппингСправочникСклады</InformationRegister>
-			<InformationRegister>ксп_ИсходныеДанныеСообщений</InformationRegister>
-			<InformationRegister>ксп_МэппингТипыСкладов</InformationRegister>
-			<InformationRegister>Штрихкоды</InformationRegister>
-			<InformationRegister>ксп_МэппингСкладМагазин</InformationRegister>
-			<InformationRegister>ксп_МэппингПричинаОтменыЗаказаКлиента</InformationRegister>
-			<InformationRegister>ксп_МэппингВидыНоменклатуры</InformationRegister>
-			<InformationRegister>ксп_МэппингСправочникКонтрагенты</InformationRegister>
-			<InformationRegister>ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП</InformationRegister>
 			<InformationRegister>ксп_РасходныйОрдерНаТовары_ЕРП</InformationRegister>
-			<InformationRegister>ксп_РасходныйОрдерНаТовары_ЕРП_ТоварыПоРаспоряжениям</InformationRegister>
 			<InformationRegister>ксп_РасходныйОрдерНаТовары_ЕРП_ОтгружаемыеТовары</InformationRegister>
-			<InformationRegister>ксп_ЗаказНаПеремещение_ЕРП</InformationRegister>
-			<InformationRegister>ксп_ЗаказНаПеремещение_ЕРП_Товары</InformationRegister>
-			<InformationRegister>ксп_ЗаказНаПеремещение_ЕРП_ДополнительныеРеквизиты</InformationRegister>
+			<InformationRegister>ксп_РасходныйОрдерНаТовары_ЕРП_ТоварыПоРаспоряжениям</InformationRegister>
 			<InformationRegister>ПрименениеСистемНалогообложения</InformationRegister>
-			<InformationRegister>ксп_МэппингСправочникСкидкиНаценки</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
-			<InformationRegister>ксп_ДополнительныеНастройкиИнтеграций</InformationRegister>
-			<InformationRegister>ксп_МэппингСправочникФорматыМагазинов</InformationRegister>
-			<InformationRegister>ксп_МэппингСправочникВидыЦен</InformationRegister>
-			<InformationRegister>ксп_МэппингСправочникСтатьиДДС</InformationRegister>
+			<InformationRegister>Штрихкоды</InformationRegister>
 			<ChartOfCharacteristicTypes>ксп_ВнешниеПеречисления</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ТипыШтрихкодов</ChartOfCharacteristicTypes>
 		</ChildObjects>
