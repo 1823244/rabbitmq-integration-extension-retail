@@ -57,14 +57,14 @@
 		<Metadata name="CommonModule.БлокировкаРаботыСВнешнимиРесурсамиПереопределяемый" id="158e129f-9a5a-4770-a64d-553d9d649027" configVersion="3a5e9af3572157ee95f433ce4ec618c05fa51166"/>
 		<Metadata name="CommonModule.БлокировкаРаботыСВнешнимиРесурсамиПереопределяемый.Module" id="158e129f-9a5a-4770-a64d-553d9d649027.0" configVersion="064868cfa6b1fbdb3a59ce29ddcc45a4a6c2cab6"/>
 		<Metadata name="CommonModule.ксп_ИмпортСлужебный" id="24c9f3eb-7351-4301-850f-281e51f2c7b6" configVersion="ddab8bfef28993930f6b7d2491c0d5ec8423a82f"/>
-		<Metadata name="CommonModule.ксп_ИмпортСлужебный.Module" id="24c9f3eb-7351-4301-850f-281e51f2c7b6.0" configVersion="027b6e2cac03f10eee2317821110301e84d70270"/>
+		<Metadata name="CommonModule.ксп_ИмпортСлужебный.Module" id="24c9f3eb-7351-4301-850f-281e51f2c7b6.0" configVersion="65fa007a3f8c33c79e202a55b64243354913e881"/>
 		<Metadata name="CommonModule.ксп_РегламентныеЗадания" id="49f149fb-0dff-4f34-af37-a37737e53e24" configVersion="999607c31307892ee09d03927b61a70c56fe1ae3"/>
 		<Metadata name="CommonModule.ксп_РегламентныеЗадания.Module" id="49f149fb-0dff-4f34-af37-a37737e53e24.0" configVersion="e5eaaf33ae923b3256d6395dce1889e0eed8460d"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный" id="af4e9f25-cec3-4e30-8a49-02c78b713528" configVersion="ac3b8e9e37f144e54107ceab362b34bc8ee9c122"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="af4e9f25-cec3-4e30-8a49-02c78b713528.0" configVersion="c61e0b544ea8b54ee2bb96bed9a954f79c664007"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d" configVersion="24d95ece84373faafe72c820bb69420519dd3e0f"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп.Module" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d.0" configVersion="964c6d700510de79a06db378c54e775e079a48fe"/>
-		<Metadata name="Configuration.КСП" id="6e697993-1eb3-4989-81da-176f3ddfad76" configVersion="f29eba1f88ad53dc44d6a4c4ce1ad265349303c6"/>
+		<Metadata name="Configuration.КСП" id="6e697993-1eb3-4989-81da-176f3ddfad76" configVersion="9654ab698af3b946b2559b0257e282de5f6e78bd"/>
 		<Metadata name="Constant.УзелОбменаRabbitMQ" id="cf982a21-41b2-43a3-895d-569955aad763" configVersion="f05057e95643fb3f9f309270ea3f6306a25f8d18"/>
 		<Metadata name="DataProcessor.ксп_РегистрацияКОбмену" id="b140d2cc-c7f3-4f4e-bd4e-f344ab57c3c0" configVersion="a22a052c357a94e4c22b34953529aea3e8ebeef3">
 			<Metadata name="DataProcessor.ксп_РегистрацияКОбмену.Attribute.НастройкаКонтрольВыгрузкиОбъектов" id="364f1017-ffc0-487e-b2fe-d5f73b512a82"/>
@@ -323,6 +323,13 @@
 			<Metadata name="InformationRegister.ксп_МэппингСправочникСклады.Resource.Наименование" id="c49a0415-1eea-42af-992a-7d3dd4e208f0"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_МэппингСправочникСклады.ManagerModule" id="36b211ed-7b01-4c81-a70c-dea36f390c85.2" configVersion="efaf9ac327cb1cfd3f35f947b0b04dc271f2df3a"/>
+		<Metadata name="InformationRegister.ксп_МэппингСправочникСтатьиДДС" id="1a4ef8bb-19c0-4f19-aa01-29418baf49ce" configVersion="65d46ebecb89608f2891ce444f302a3f6b1d2ce5">
+			<Metadata name="InformationRegister.ксп_МэппингСправочникСтатьиДДС.Dimension.GUID" id="560959cd-2812-43a1-8a66-dc7359373c4c"/>
+			<Metadata name="InformationRegister.ксп_МэппингСправочникСтатьиДДС.Resource.Наименование" id="76412e5a-6554-432d-b812-6ccfb4c9779f"/>
+			<Metadata name="InformationRegister.ксп_МэппингСправочникСтатьиДДС.Dimension.ВнешняяСистема" id="e1036eff-43a6-4e5a-9ca7-260439606abd"/>
+			<Metadata name="InformationRegister.ксп_МэппингСправочникСтатьиДДС.Resource.СтатьяДДС" id="f27ac8c9-429d-4ed8-971f-3dfc7193f4a0"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ксп_МэппингСправочникСтатьиДДС.ManagerModule" id="1a4ef8bb-19c0-4f19-aa01-29418baf49ce.2" configVersion="dfb04d21ac8f1ae03dbdf7207fdda6d25de663c5"/>
 		<Metadata name="InformationRegister.ксп_МэппингСправочникФорматыМагазинов" id="f50d3806-07f4-4223-acbc-900c72faffa3" configVersion="0f4bbd452a3985ddb1050e0948434ab11691171c">
 			<Metadata name="InformationRegister.ксп_МэппингСправочникФорматыМагазинов.Resource.Наименование" id="024c5a02-98b3-4522-9041-2de4c5b861c5"/>
 			<Metadata name="InformationRegister.ксп_МэппингСправочникФорматыМагазинов.Dimension.ВнешняяСистема" id="41234f56-3e1b-4cb1-ba3e-926a3849b019"/>
@@ -405,6 +412,6 @@
 		</Metadata>
 		<Metadata name="Language.Русский" id="cb75d87f-3b76-4bbf-908c-8c01681dc876" configVersion="403163a546ebaa6432af96351ca67ed89b1e83e8"/>
 		<Metadata name="Role.ксп_ОсновнаяРоль" id="ad83386e-a41b-4fd9-a8e0-f188f2a2319d" configVersion="2558786675e9a5465025a6a66e898685d930bc46"/>
-		<Metadata name="Subsystem.ксп_КодерлайнИнтеграция" id="dd7784a3-d103-4f97-8ab2-f7bdda87a4ca" configVersion="89d66f6cf33b9a6aed69de74ad72d913692c3056"/>
+		<Metadata name="Subsystem.ксп_КодерлайнИнтеграция" id="dd7784a3-d103-4f97-8ab2-f7bdda87a4ca" configVersion="88ebafafb87912fd01120081bf62619d687536bf"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

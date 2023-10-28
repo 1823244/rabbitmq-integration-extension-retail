@@ -150,6 +150,7 @@
 			<InformationRegister>ксп_ДополнительныеНастройкиИнтеграций</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникФорматыМагазинов</InformationRegister>
 			<InformationRegister>ксп_МэппингСправочникВидыЦен</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникСтатьиДДС</InformationRegister>
 			<ChartOfCharacteristicTypes>ксп_ВнешниеПеречисления</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ТипыШтрихкодов</ChartOfCharacteristicTypes>
 		</ChildObjects>
