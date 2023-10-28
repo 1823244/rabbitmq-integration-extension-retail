@@ -41,6 +41,8 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_ЗаказНаПеремещение_ЕРП</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникСкидкиНаценки</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_ДополнительныеНастройкиИнтеграций</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникФорматыМагазинов</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникВидыЦен</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

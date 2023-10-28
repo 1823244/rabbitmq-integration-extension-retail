@@ -99,6 +99,7 @@
 			<Catalog>СтатьиДвиженияДенежныхСредств</Catalog>
 			<Catalog>ХарактеристикиНоменклатуры</Catalog>
 			<Catalog>ВидыЦен</Catalog>
+			<Catalog>ФорматыМагазинов</Catalog>
 			<Document>ОтчетОРозничныхПродажах</Document>
 			<Document>ЧекККМ</Document>
 			<Document>ПеремещениеТоваров</Document>
@@ -121,6 +122,9 @@
 			<Enum>ксп_ВидыПроблемКачестваДокументов</Enum>
 			<Enum>ТипыСкладов</Enum>
 			<Enum>ТипыСистемНалогообложенияККТ</Enum>
+			<Enum>СпособыЗаданияЦен</Enum>
+			<Enum>РолиАссортимента</Enum>
+			<Enum>СтадииАссортимента</Enum>
 			<DataProcessor>ксп_РегистрацияКОбмену</DataProcessor>
 			<InformationRegister>ксп_ОтложенноеПроведение</InformationRegister>
 			<InformationRegister>ксп_ОтложенноеПроведениеПроблемы</InformationRegister>
@@ -144,6 +148,8 @@
 			<InformationRegister>ксп_МэппингСправочникСкидкиНаценки</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>ксп_ДополнительныеНастройкиИнтеграций</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникФорматыМагазинов</InformationRegister>
+			<InformationRegister>ксп_МэппингСправочникВидыЦен</InformationRegister>
 			<ChartOfCharacteristicTypes>ксп_ВнешниеПеречисления</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ТипыШтрихкодов</ChartOfCharacteristicTypes>
 		</ChildObjects>

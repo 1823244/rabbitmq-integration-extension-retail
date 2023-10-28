@@ -49,6 +49,10 @@
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Catalog.ВидыЦен</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Document.ВозвратТоваровОтПокупателя</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
@@ -69,11 +73,19 @@
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Catalog.ФорматыМагазинов</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Catalog.БанковскиеСчета</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
 		<Metadata>Catalog.Пользователи</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
+		<Metadata>Catalog.ХарактеристикиНоменклатуры</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>

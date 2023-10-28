@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Enum uuid="202af663-e975-4238-8ee2-88601a440c8e">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.СпособыЗаданияЦен" category="Ref">
+				<xr:TypeId>e844a452-2069-455d-b774-e96a24c4d26a</xr:TypeId>
+				<xr:ValueId>fb0cb27e-1a46-426d-bbcb-8b7d54b89eae</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.СпособыЗаданияЦен" category="Manager">
+				<xr:TypeId>3a40971b-5673-4d43-957b-54dc79ece212</xr:TypeId>
+				<xr:ValueId>ca1cae98-e2a3-4352-99f3-f2564353f5fa</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.СпособыЗаданияЦен" category="List">
+				<xr:TypeId>26105eaf-4b53-43d7-8eca-78fbd5b0d7fd</xr:TypeId>
+				<xr:ValueId>d29537d9-adfd-4d21-8196-212a2201b7c9</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СпособыЗаданияЦен</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>d075c4e8-a38f-4731-bad9-0391e7ed6438</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="9902da97-2e81-491c-a404-285c57d636cb">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ЗадаватьВручную</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>155e6e1f-ed27-43c5-a03c-d6bb2ada44be</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="fdfc0be6-504a-42b6-b9b7-cc22d328d6e3">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ЗаполнятьПоДаннымИБ</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>e7a1d795-05fe-4967-80ac-1750ba2296f2</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="2d0d2aff-6ddb-464a-a178-8698b41e4c1c">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ЗаполнятьПоДаннымИБПриПоступлении</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>a507d041-167f-4211-af77-26b1361fe973</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="bf16c38b-c1d0-4dfd-a132-62483c009c26">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>РассчитыватьПоДругимВидамЦен</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>d157f38a-3c26-4e95-9148-e656cbe701d9</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Enum uuid="1eef504d-00e2-4415-a3d3-fc5bae19d4f5">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.РолиАссортимента" category="Ref">
+				<xr:TypeId>a564ffb1-8a24-4acc-b243-fcf329adfd7c</xr:TypeId>
+				<xr:ValueId>dae8447b-ab85-43d2-bbe0-236c6d0bedc9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.РолиАссортимента" category="Manager">
+				<xr:TypeId>f81f268e-9e96-48d5-ae15-b4f3893a6576</xr:TypeId>
+				<xr:ValueId>1235538f-8685-44cb-87af-495008b9d5a8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.РолиАссортимента" category="List">
+				<xr:TypeId>f7124eb0-663a-4f54-80d5-e5200dd8dccb</xr:TypeId>
+				<xr:ValueId>283d773f-ddd4-48dc-bdc6-ce2b5996d544</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РолиАссортимента</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>e4358c2f-f70b-4348-8326-6d928fe24731</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="6251e4c4-6aa7-4aa5-a6aa-ac8f2b47ed68">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ПостоянныйАссортимент</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>fdffa9da-232d-400d-b3b0-b59ab8ef12ca</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="4b9f8e89-6d3f-4f5f-bc0f-ed858e669808">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ДополнительныйАссортимент</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>e0d2e05d-933f-4f4e-b971-090bbf6b8fd2</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="909b3509-d87c-49f7-b1ca-f0a7768ca5f0">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ПробныйАссортимент</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>f65066f1-578f-4b31-bc73-4d990236894b</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>

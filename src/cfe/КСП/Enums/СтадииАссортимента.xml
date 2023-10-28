@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Enum uuid="6b1a2a87-74f7-4232-a08d-5867ffd31260">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.СтадииАссортимента" category="Ref">
+				<xr:TypeId>6f54faaa-04fb-428b-850c-39c8eeb2e6b8</xr:TypeId>
+				<xr:ValueId>ba17ecd3-d612-4cb3-bd6d-9a8e5814eadd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.СтадииАссортимента" category="Manager">
+				<xr:TypeId>56cefacf-a006-4150-b30f-f81b15175798</xr:TypeId>
+				<xr:ValueId>b3762071-7f8f-43ec-b0c1-76f0fbd6a052</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.СтадииАссортимента" category="List">
+				<xr:TypeId>c6a7ee18-96e5-4590-ae90-a5cb70bd9cee</xr:TypeId>
+				<xr:ValueId>d787162a-eb69-440c-a35e-f9b959132aea</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СтадииАссортимента</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>55f5f072-6c7f-4ded-8fbd-93b88a64855c</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="33c119a8-ebb5-41f6-b038-2b3dcb003540">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>РазрешеныТолькоЗакупки</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>b40c40dc-c3a3-499e-9727-95584a790e9e</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="dcc2c0ab-53e7-4449-8fc6-a7e503c2c7ca">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>РазрешеныЗакупкиИПродажи</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>e174e22c-3574-4766-a535-d90b7dd21365</ExtendedConfigurationObject>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>
