@@ -57,7 +57,7 @@
 		<Metadata name="CommonModule.БлокировкаРаботыСВнешнимиРесурсамиПереопределяемый" id="158e129f-9a5a-4770-a64d-553d9d649027" configVersion="3a5e9af3572157ee95f433ce4ec618c05fa51166"/>
 		<Metadata name="CommonModule.БлокировкаРаботыСВнешнимиРесурсамиПереопределяемый.Module" id="158e129f-9a5a-4770-a64d-553d9d649027.0" configVersion="064868cfa6b1fbdb3a59ce29ddcc45a4a6c2cab6"/>
 		<Metadata name="CommonModule.ксп_ИмпортСлужебный" id="24c9f3eb-7351-4301-850f-281e51f2c7b6" configVersion="ddab8bfef28993930f6b7d2491c0d5ec8423a82f"/>
-		<Metadata name="CommonModule.ксп_ИмпортСлужебный.Module" id="24c9f3eb-7351-4301-850f-281e51f2c7b6.0" configVersion="9415f6f80221542db8aa4085fda25735979f95ed"/>
+		<Metadata name="CommonModule.ксп_ИмпортСлужебный.Module" id="24c9f3eb-7351-4301-850f-281e51f2c7b6.0" configVersion="e4bcf05819f7dacb4cb8f9de06f2d6128bfec3a7"/>
 		<Metadata name="CommonModule.ксп_РегламентныеЗадания" id="49f149fb-0dff-4f34-af37-a37737e53e24" configVersion="999607c31307892ee09d03927b61a70c56fe1ae3"/>
 		<Metadata name="CommonModule.ксп_РегламентныеЗадания.Module" id="49f149fb-0dff-4f34-af37-a37737e53e24.0" configVersion="e5eaaf33ae923b3256d6395dce1889e0eed8460d"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный" id="af4e9f25-cec3-4e30-8a49-02c78b713528" configVersion="ac3b8e9e37f144e54107ceab362b34bc8ee9c122"/>
