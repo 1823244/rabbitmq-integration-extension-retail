@@ -361,7 +361,7 @@
 			<Metadata name="InformationRegister.ксп_ОтложенноеПроведениеПроблемы.Dimension.ДокументСсылка" id="dcfcee18-7474-4072-bbc5-eb73a03b40c2"/>
 			<Metadata name="InformationRegister.ксп_ОтложенноеПроведениеПроблемы.Resource.ВидПроблемы" id="faf59ba6-df58-48ee-88ba-de99b70f481e"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ксп_РасходныйОрдерНаТовары_ЕРП" id="cdbfbfc9-fe5b-4866-b2bb-041abccb07f4" configVersion="833c69e8812c7f0291730b39872c5d7474d1754e">
+		<Metadata name="InformationRegister.ксп_РасходныйОрдерНаТовары_ЕРП" id="cdbfbfc9-fe5b-4866-b2bb-041abccb07f4" configVersion="7305d92a98aa36b5a14fb4dbe7538229872f6694">
 			<Metadata name="InformationRegister.ксп_РасходныйОрдерНаТовары_ЕРП.Attribute.Комментарий" id="08774405-78ec-4cb4-b326-07ae433e5bea"/>
 			<Metadata name="InformationRegister.ксп_РасходныйОрдерНаТовары_ЕРП.Attribute.ПорядокДоставки" id="10c830fc-e002-47e4-a2a3-ca4f834e15d8"/>
 			<Metadata name="InformationRegister.ксп_РасходныйОрдерНаТовары_ЕРП.Dimension.ВнешняяСистема" id="208a1663-3191-43b0-87e7-0fa76d1f31df"/>
