@@ -257,13 +257,15 @@
 			<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.Attribute.ТекстОшибки" id="d71e8396-b9df-4ccb-ac46-eae879e7b1e8"/>
 			<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.Dimension.РасходныйОрдерГУИД" id="e3527f6f-fd17-46b7-8aab-bcd87f14c077"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.ManagerModule" id="73b86aa0-37a8-4fca-bad8-65b1d12b034b.2" configVersion="c178077ccf958e778e859c15e361cd8cba3e38b3"/>
-		<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений" id="32a5f704-4a7c-4723-9d2a-64d69ea2bb34" configVersion="57bd8181dedbf44335fa870092f070f1e2c79d23">
+		<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.ManagerModule" id="73b86aa0-37a8-4fca-bad8-65b1d12b034b.2" configVersion="94fc9ada92252d93385b924d35415ede7e8d647e"/>
+		<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений" id="32a5f704-4a7c-4723-9d2a-64d69ea2bb34" configVersion="f199774cc981768fe11e3be0730ce529cb733aec">
 			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Resource.ТекстJson" id="027d0574-e72c-42bf-95ae-54324f10ee5b"/>
 			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Dimension.ВнешняяСистема" id="101bf037-a79e-4bf5-9912-e1b16f92b755"/>
 			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Dimension.СсылкаНаОбъект" id="68588dca-63b7-409d-80c5-f1abf92e6832"/>
 			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Dimension.ПериодМс" id="6aef0430-a58d-44a8-8b45-9c7ea0cb2f9c"/>
 			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Attribute.МоментВремениЗаписи" id="945d2c7d-f5a0-4678-9ee5-dc8e4baafc95"/>
+			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Attribute.ЕстьОшибка" id="b7405d75-d1da-4f21-ba7e-bd2eb5078320"/>
+			<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Attribute.ТекстОшибки" id="fe3d1b87-8976-427a-a046-34631265339c"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Form.ФормаЗаписи" id="c3db544a-9861-4092-bfda-6b5e98f2e967" configVersion="3297e201b2c92a18c111a982ec39418a1924ac64"/>
 		<Metadata name="InformationRegister.ксп_ИсходныеДанныеСообщений.Form.ФормаЗаписи.Form" id="c3db544a-9861-4092-bfda-6b5e98f2e967.0" configVersion="1d87f3111f7cfe895a838a62ac8d4dde3dc48778"/>
