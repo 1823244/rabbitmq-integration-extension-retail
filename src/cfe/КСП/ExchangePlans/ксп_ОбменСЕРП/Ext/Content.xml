@@ -9,6 +9,10 @@
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Catalog.ЭквайринговыеТерминалы</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Document.ВыемкаДенежныхСредствИзКассыККМ</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>

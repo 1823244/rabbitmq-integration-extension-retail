@@ -74,33 +74,34 @@
 			<CommonModule>ксп_РегламентныеЗадания</CommonModule>
 			<ExchangePlan>ксп_ОбменСЕРП</ExchangePlan>
 			<Constant>УзелОбменаRabbitMQ</Constant>
-			<Catalog>Номенклатура</Catalog>
-			<Catalog>Склады</Catalog>
-			<Catalog>Организации</Catalog>
-			<Catalog>ксп_ВнешниеПеречисления</Catalog>
-			<Catalog>КлассификаторБанков</Catalog>
-			<Catalog>БанковскиеСчета</Catalog>
-			<Catalog>ИнформационныеКарты</Catalog>
-			<Catalog>Магазины</Catalog>
-			<Catalog>ПричиныОтменыЗаказовПокупателей</Catalog>
-			<Catalog>ксп_КлассификаторПеречислений</Catalog>
-			<Catalog>НаборыУпаковок</Catalog>
-			<Catalog>УпаковкиНоменклатуры</Catalog>
 			<Catalog>БазовыеЕдиницыИзмерения</Catalog>
+			<Catalog>БанковскиеСчета</Catalog>
 			<Catalog>ВидыНоменклатуры</Catalog>
-			<Catalog>Контрагенты</Catalog>
-			<Catalog>СерииНоменклатуры</Catalog>
-			<Catalog>Пользователи</Catalog>
+			<Catalog>ВидыОплатЧекаККМ</Catalog>
+			<Catalog>ВидыЦен</Catalog>
 			<Catalog>ДоговорыКонтрагентов</Catalog>
-			<Catalog>ТоварныеГруппы</Catalog>
-			<Catalog>СкидкиНаценки</Catalog>
+			<Catalog>ИнформационныеКарты</Catalog>
 			<Catalog>Кассы</Catalog>
 			<Catalog>КассыККМ</Catalog>
+			<Catalog>КлассификаторБанков</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>ксп_ВнешниеПеречисления</Catalog>
+			<Catalog>ксп_КлассификаторПеречислений</Catalog>
+			<Catalog>Магазины</Catalog>
+			<Catalog>НаборыУпаковок</Catalog>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>Организации</Catalog>
+			<Catalog>Пользователи</Catalog>
+			<Catalog>ПричиныОтменыЗаказовПокупателей</Catalog>
+			<Catalog>СерииНоменклатуры</Catalog>
+			<Catalog>СкидкиНаценки</Catalog>
+			<Catalog>Склады</Catalog>
 			<Catalog>СтатьиДвиженияДенежныхСредств</Catalog>
-			<Catalog>ХарактеристикиНоменклатуры</Catalog>
-			<Catalog>ВидыЦен</Catalog>
+			<Catalog>ТоварныеГруппы</Catalog>
+			<Catalog>УпаковкиНоменклатуры</Catalog>
 			<Catalog>ФорматыМагазинов</Catalog>
-			<Catalog>ВидыОплатЧекаККМ</Catalog>
+			<Catalog>ХарактеристикиНоменклатуры</Catalog>
+			<Catalog>ЭквайринговыеТерминалы</Catalog>
 			<Document>ОтчетОРозничныхПродажах</Document>
 			<Document>ЧекККМ</Document>
 			<Document>ПеремещениеТоваров</Document>
