@@ -66,7 +66,7 @@
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="af4e9f25-cec3-4e30-8a49-02c78b713528.0" configVersion="c61e0b544ea8b54ee2bb96bed9a954f79c664007"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d" configVersion="24d95ece84373faafe72c820bb69420519dd3e0f"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп.Module" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d.0" configVersion="964c6d700510de79a06db378c54e775e079a48fe"/>
-		<Metadata name="Configuration.КСП" id="6e697993-1eb3-4989-81da-176f3ddfad76" configVersion="360685f0462bb56a1748f8b8de6be6b4ecdd3b2c"/>
+		<Metadata name="Configuration.КСП" id="6e697993-1eb3-4989-81da-176f3ddfad76" configVersion="5b147c8e1b9eebd8eb6ba93a4e21235d83658eb1"/>
 		<Metadata name="Constant.УзелОбменаRabbitMQ" id="cf982a21-41b2-43a3-895d-569955aad763" configVersion="f05057e95643fb3f9f309270ea3f6306a25f8d18"/>
 		<Metadata name="DataProcessor.ксп_РегистрацияКОбмену" id="b140d2cc-c7f3-4f4e-bd4e-f344ab57c3c0" configVersion="a22a052c357a94e4c22b34953529aea3e8ebeef3">
 			<Metadata name="DataProcessor.ксп_РегистрацияКОбмену.Attribute.НастройкаКонтрольВыгрузкиОбъектов" id="364f1017-ffc0-487e-b2fe-d5f73b512a82"/>
@@ -100,6 +100,7 @@
 		<Metadata name="Document.ВыемкаДенежныхСредствИзКассыККМ" id="103ef4df-4dcf-4070-87cb-a63ef282314b" configVersion="e5f7b47cd4707f76b83a63f8c59bf403611c2009"/>
 		<Metadata name="Document.ЗаказНаПеремещение" id="4abf4081-02ce-498d-bcf9-d0e44b00960e" configVersion="dd383c06edec073dbd49d1c2e85c3688df469005"/>
 		<Metadata name="Document.ЗаказПокупателя" id="b1bee903-1a5b-4885-9872-ef2e70376a7d" configVersion="065ded694a70568d66e18e55b4b4b3de273178e4"/>
+		<Metadata name="Document.КассоваяСмена" id="2bf05faa-fd87-41c6-80a3-b0c485802c05" configVersion="37ca4a19b5fc9382185119a03e26a33463aa50b5"/>
 		<Metadata name="Document.ОплатаОтПокупателяПлатежнойКартой" id="30b6dede-7e47-4154-8f72-4b39cd253ca8" configVersion="ae4cc088b91c332bc1299b5028cd54758a31f794"/>
 		<Metadata name="Document.ОприходованиеТоваров" id="ca6abcf9-299a-4b36-addd-6dc5cdb2de6e" configVersion="8879361673fab14bcead146cf8a2aeb2c5c86a6d"/>
 		<Metadata name="Document.ОтчетОРозничныхПродажах" id="0d310227-ec10-479e-b59c-56e062ba8fa9" configVersion="8acea32d9e3db22f506a2f550ef946aecde09c55"/>
@@ -143,7 +144,7 @@
 			<Metadata name="Enum.ксп_СтатусыКачестваДокументов.EnumValue.Ошибка" id="96ee1167-fcee-4047-9d91-e552d6a6e7cb"/>
 		</Metadata>
 		<Metadata name="ExchangePlan.ксп_ОбменСЕРП" id="3c3b3256-e966-4cd2-8faf-9984530edb4f" configVersion="1d6cc0a42019888d0af565f0e566cbaecb8c635c"/>
-		<Metadata name="ExchangePlan.ксп_ОбменСЕРП.Content" id="3c3b3256-e966-4cd2-8faf-9984530edb4f.1" configVersion="5b72d0d610384ef764b8a5b8ead2043de5e632da"/>
+		<Metadata name="ExchangePlan.ксп_ОбменСЕРП.Content" id="3c3b3256-e966-4cd2-8faf-9984530edb4f.1" configVersion="0d39b5992f2b08306aff98cc0dd1ffd4a1b7b7fc"/>
 		<Metadata name="InformationRegister.ПрименениеСистемНалогообложения" id="e8ecef7d-4234-4998-879f-b11d53304559" configVersion="4790c32730f59306663e303272addbc7471e694f">
 			<Metadata name="InformationRegister.ПрименениеСистемНалогообложения.Dimension.Магазин" id="5f7170cd-f62d-4a38-95f1-8303d1e704d1"/>
 			<Metadata name="InformationRegister.ПрименениеСистемНалогообложения.Dimension.Организация" id="9bb9ae45-3f8e-41bd-853b-f466b11f6e33"/>

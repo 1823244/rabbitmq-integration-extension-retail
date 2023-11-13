@@ -120,6 +120,7 @@
 			<Document>ОприходованиеТоваров</Document>
 			<Document>ПересортицаТоваров</Document>
 			<Document>СписаниеТоваров</Document>
+			<Document>КассоваяСмена</Document>
 			<Enum>ксп_СтатусыКачестваДокументов</Enum>
 			<Enum>ксп_ВидыПроблемКачестваДокументов</Enum>
 			<Enum>ТипыСкладов</Enum>

@@ -29,6 +29,10 @@
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.КассоваяСмена</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Document.ОплатаОтПокупателяПлатежнойКартой</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
