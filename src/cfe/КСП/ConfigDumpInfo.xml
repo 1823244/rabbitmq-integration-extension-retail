@@ -7,6 +7,7 @@
 			<Metadata name="Catalog.БанковскиеСчета.Attribute.Банк" id="8f2669a6-6a28-4a25-b526-67a4204fc61f"/>
 		</Metadata>
 		<Metadata name="Catalog.ВидыНоменклатуры" id="60891444-b828-4d8d-ae82-b2e2281584b7" configVersion="b25d810ed1ab219eec27a4e3e4607342ffc35dda"/>
+		<Metadata name="Catalog.ВидыОплатЧекаККМ" id="b423794f-f17f-4bb5-aa67-488fea7330f2" configVersion="913a10761015e5d144793f35b50a610f68baf988"/>
 		<Metadata name="Catalog.ВидыЦен" id="588ac840-f39f-4547-935b-01abdd433ead" configVersion="6d32abcbb7e43add8003c317781020c4cca0b36e"/>
 		<Metadata name="Catalog.ДоговорыКонтрагентов" id="12e6b02e-99f2-4bff-af82-daaacc8b98c7" configVersion="dca82505c64d0732e3a6118ed6b889e9a09a2fd9"/>
 		<Metadata name="Catalog.ИнформационныеКарты" id="ccf62414-55dd-4f0c-9a35-d3145ea23c81" configVersion="996b2958835ccd50ea8bcc732c4f28410363ab57">
@@ -64,7 +65,7 @@
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="af4e9f25-cec3-4e30-8a49-02c78b713528.0" configVersion="c61e0b544ea8b54ee2bb96bed9a954f79c664007"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d" configVersion="24d95ece84373faafe72c820bb69420519dd3e0f"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп.Module" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d.0" configVersion="964c6d700510de79a06db378c54e775e079a48fe"/>
-		<Metadata name="Configuration.КСП" id="6e697993-1eb3-4989-81da-176f3ddfad76" configVersion="06d57fd9aa3508b6f26248fed85847268f91bff6"/>
+		<Metadata name="Configuration.КСП" id="6e697993-1eb3-4989-81da-176f3ddfad76" configVersion="2ea6296a75303a20dcdecbe9136d138e4863cfcb"/>
 		<Metadata name="Constant.УзелОбменаRabbitMQ" id="cf982a21-41b2-43a3-895d-569955aad763" configVersion="f05057e95643fb3f9f309270ea3f6306a25f8d18"/>
 		<Metadata name="DataProcessor.ксп_РегистрацияКОбмену" id="b140d2cc-c7f3-4f4e-bd4e-f344ab57c3c0" configVersion="a22a052c357a94e4c22b34953529aea3e8ebeef3">
 			<Metadata name="DataProcessor.ксп_РегистрацияКОбмену.Attribute.НастройкаКонтрольВыгрузкиОбъектов" id="364f1017-ffc0-487e-b2fe-d5f73b512a82"/>
@@ -141,7 +142,7 @@
 			<Metadata name="Enum.ксп_СтатусыКачестваДокументов.EnumValue.Ошибка" id="96ee1167-fcee-4047-9d91-e552d6a6e7cb"/>
 		</Metadata>
 		<Metadata name="ExchangePlan.ксп_ОбменСЕРП" id="3c3b3256-e966-4cd2-8faf-9984530edb4f" configVersion="1d6cc0a42019888d0af565f0e566cbaecb8c635c"/>
-		<Metadata name="ExchangePlan.ксп_ОбменСЕРП.Content" id="3c3b3256-e966-4cd2-8faf-9984530edb4f.1" configVersion="80eb3c3dae3823cd514dfda318097b1b18f4525f"/>
+		<Metadata name="ExchangePlan.ксп_ОбменСЕРП.Content" id="3c3b3256-e966-4cd2-8faf-9984530edb4f.1" configVersion="bde302e74d7f865b4a428879a57c78c30c88aaba"/>
 		<Metadata name="InformationRegister.ПрименениеСистемНалогообложения" id="e8ecef7d-4234-4998-879f-b11d53304559" configVersion="4790c32730f59306663e303272addbc7471e694f">
 			<Metadata name="InformationRegister.ПрименениеСистемНалогообложения.Dimension.Магазин" id="5f7170cd-f62d-4a38-95f1-8303d1e704d1"/>
 			<Metadata name="InformationRegister.ПрименениеСистемНалогообложения.Dimension.Организация" id="9bb9ae45-3f8e-41bd-853b-f466b11f6e33"/>

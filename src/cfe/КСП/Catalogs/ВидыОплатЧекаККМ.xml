@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="b423794f-f17f-4bb5-aa67-488fea7330f2">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ВидыОплатЧекаККМ" category="Object">
+				<xr:TypeId>f24b6a6c-7889-48d7-83fb-b8d785787683</xr:TypeId>
+				<xr:ValueId>84311be9-2443-4476-9585-98c49db34a47</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ВидыОплатЧекаККМ" category="Ref">
+				<xr:TypeId>e78a99f8-216c-4438-a42f-0396e7b58add</xr:TypeId>
+				<xr:ValueId>5cb11299-ca7d-4c21-ba11-68e17717c96a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ВидыОплатЧекаККМ" category="Selection">
+				<xr:TypeId>b3d0bfb3-4335-408d-81e4-687ca3814b6c</xr:TypeId>
+				<xr:ValueId>54a6c25e-bf01-4257-afde-8c0c3a1ba8cc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ВидыОплатЧекаККМ" category="List">
+				<xr:TypeId>71fc912d-63f9-4abd-a32c-96e829bf855b</xr:TypeId>
+				<xr:ValueId>0d0b43da-27c2-47c6-9e39-6c0bf10a0fa4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ВидыОплатЧекаККМ" category="Manager">
+				<xr:TypeId>eb94f9b1-65af-4e88-b0c8-467724bfd5ad</xr:TypeId>
+				<xr:ValueId>27904f3a-d158-4566-8b29-e3a11639bfbd</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВидыОплатЧекаККМ</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>544d9caf-57e4-41d3-aa3a-58d97e44edc4</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

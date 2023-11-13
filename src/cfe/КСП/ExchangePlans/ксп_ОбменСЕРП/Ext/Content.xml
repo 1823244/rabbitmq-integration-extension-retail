@@ -109,6 +109,10 @@
 		<AutoRecord>Allow</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Catalog.ВидыОплатЧекаККМ</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Document.ПриходныйКассовыйОрдер</Metadata>
 		<AutoRecord>Allow</AutoRecord>
 	</Item>

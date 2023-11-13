@@ -100,6 +100,7 @@
 			<Catalog>ХарактеристикиНоменклатуры</Catalog>
 			<Catalog>ВидыЦен</Catalog>
 			<Catalog>ФорматыМагазинов</Catalog>
+			<Catalog>ВидыОплатЧекаККМ</Catalog>
 			<Document>ОтчетОРозничныхПродажах</Document>
 			<Document>ЧекККМ</Document>
 			<Document>ПеремещениеТоваров</Document>
