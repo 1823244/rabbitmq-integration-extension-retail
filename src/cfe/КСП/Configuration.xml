@@ -72,6 +72,7 @@
 			<CommonModule>БлокировкаРаботыСВнешнимиРесурсамиПереопределяемый</CommonModule>
 			<CommonModule>ксп_ИмпортСлужебный</CommonModule>
 			<CommonModule>ксп_РегламентныеЗадания</CommonModule>
+			<CommonModule>ксп_ПодпискиНаСобытия</CommonModule>
 			<ExchangePlan>ксп_ОбменСЕРП</ExchangePlan>
 			<Constant>УзелОбменаRabbitMQ</Constant>
 			<Catalog>БазовыеЕдиницыИзмерения</Catalog>
