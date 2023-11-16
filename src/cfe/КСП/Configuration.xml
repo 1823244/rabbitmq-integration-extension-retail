@@ -74,6 +74,8 @@
 			<CommonModule>ксп_РегламентныеЗадания</CommonModule>
 			<CommonModule>ксп_ПодпискиНаСобытия</CommonModule>
 			<ExchangePlan>ксп_ОбменСЕРП</ExchangePlan>
+			<EventSubscription>ксп_ПриЗаписиДокумента</EventSubscription>
+			<EventSubscription>ксп_ПриЗаписиСправочника</EventSubscription>
 			<Constant>УзелОбменаRabbitMQ</Constant>
 			<Catalog>БазовыеЕдиницыИзмерения</Catalog>
 			<Catalog>БанковскиеСчета</Catalog>

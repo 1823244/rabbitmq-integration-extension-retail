@@ -68,7 +68,7 @@
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="af4e9f25-cec3-4e30-8a49-02c78b713528.0" configVersion="5e6a3c5dfab59eedf973b1cc0112974797a9e771"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d" configVersion="24d95ece84373faafe72c820bb69420519dd3e0f"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп.Module" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d.0" configVersion="964c6d700510de79a06db378c54e775e079a48fe"/>
-		<Metadata name="Configuration.КСП" id="6e697993-1eb3-4989-81da-176f3ddfad76" configVersion="dd354962efc1846e4dffb147bae0a19f260f9da8"/>
+		<Metadata name="Configuration.КСП" id="6e697993-1eb3-4989-81da-176f3ddfad76" configVersion="d5831db34f892fd9d7d03aed4bbf84764fde833f"/>
 		<Metadata name="Constant.УзелОбменаRabbitMQ" id="cf982a21-41b2-43a3-895d-569955aad763" configVersion="f05057e95643fb3f9f309270ea3f6306a25f8d18"/>
 		<Metadata name="DataProcessor.ксп_РегистрацияКОбмену" id="b140d2cc-c7f3-4f4e-bd4e-f344ab57c3c0" configVersion="a22a052c357a94e4c22b34953529aea3e8ebeef3">
 			<Metadata name="DataProcessor.ксп_РегистрацияКОбмену.Attribute.НастройкаКонтрольВыгрузкиОбъектов" id="364f1017-ffc0-487e-b2fe-d5f73b512a82"/>
@@ -145,8 +145,10 @@
 			<Metadata name="Enum.ксп_СтатусыКачестваДокументов.EnumValue.ОК" id="606a0d56-958f-4cfd-9fa6-e9291b88cb29"/>
 			<Metadata name="Enum.ксп_СтатусыКачестваДокументов.EnumValue.Ошибка" id="96ee1167-fcee-4047-9d91-e552d6a6e7cb"/>
 		</Metadata>
+		<Metadata name="EventSubscription.ксп_ПриЗаписиДокумента" id="e64fcf50-35ab-409f-8eb5-8dfc5c1a9bdf" configVersion="f4ad448a4ed04b088e9d9c019bc65226bce6ba41"/>
+		<Metadata name="EventSubscription.ксп_ПриЗаписиСправочника" id="5b6556d8-454c-4d3b-bf37-b7e862503d3e" configVersion="b7611c0141231654f1ff7149864fa69c412d1582"/>
 		<Metadata name="ExchangePlan.ксп_ОбменСЕРП" id="3c3b3256-e966-4cd2-8faf-9984530edb4f" configVersion="1d6cc0a42019888d0af565f0e566cbaecb8c635c"/>
-		<Metadata name="ExchangePlan.ксп_ОбменСЕРП.Content" id="3c3b3256-e966-4cd2-8faf-9984530edb4f.1" configVersion="0d39b5992f2b08306aff98cc0dd1ffd4a1b7b7fc"/>
+		<Metadata name="ExchangePlan.ксп_ОбменСЕРП.Content" id="3c3b3256-e966-4cd2-8faf-9984530edb4f.1" configVersion="b7f5dcabce3924a3d217bb909573f8effe26672b"/>
 		<Metadata name="InformationRegister.ПрименениеСистемНалогообложения" id="e8ecef7d-4234-4998-879f-b11d53304559" configVersion="4790c32730f59306663e303272addbc7471e694f">
 			<Metadata name="InformationRegister.ПрименениеСистемНалогообложения.Dimension.Магазин" id="5f7170cd-f62d-4a38-95f1-8303d1e704d1"/>
 			<Metadata name="InformationRegister.ПрименениеСистемНалогообложения.Dimension.Организация" id="9bb9ae45-3f8e-41bd-853b-f466b11f6e33"/>
