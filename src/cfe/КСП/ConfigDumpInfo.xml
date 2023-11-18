@@ -59,7 +59,7 @@
 		<Metadata name="CommonModule.БлокировкаРаботыСВнешнимиРесурсамиПереопределяемый" id="158e129f-9a5a-4770-a64d-553d9d649027" configVersion="3a5e9af3572157ee95f433ce4ec618c05fa51166"/>
 		<Metadata name="CommonModule.БлокировкаРаботыСВнешнимиРесурсамиПереопределяемый.Module" id="158e129f-9a5a-4770-a64d-553d9d649027.0" configVersion="064868cfa6b1fbdb3a59ce29ddcc45a4a6c2cab6"/>
 		<Metadata name="CommonModule.ксп_ИмпортСлужебный" id="24c9f3eb-7351-4301-850f-281e51f2c7b6" configVersion="ddab8bfef28993930f6b7d2491c0d5ec8423a82f"/>
-		<Metadata name="CommonModule.ксп_ИмпортСлужебный.Module" id="24c9f3eb-7351-4301-850f-281e51f2c7b6.0" configVersion="1c3618b98042fc28f141b7830e9f475ccbe92e58"/>
+		<Metadata name="CommonModule.ксп_ИмпортСлужебный.Module" id="24c9f3eb-7351-4301-850f-281e51f2c7b6.0" configVersion="06c2d02bbba169a5f62e67d2ebafc597729e7b3d"/>
 		<Metadata name="CommonModule.ксп_ПодпискиНаСобытия" id="09b456c4-724e-4c62-b972-02e0a02a4258" configVersion="fe1efabddec5246b04e666f6ee24f80906c9d4c4"/>
 		<Metadata name="CommonModule.ксп_ПодпискиНаСобытия.Module" id="09b456c4-724e-4c62-b972-02e0a02a4258.0" configVersion="9a0d7a2fa776790de2bfed7dedb2282aa77d07e6"/>
 		<Metadata name="CommonModule.ксп_РегламентныеЗадания" id="49f149fb-0dff-4f34-af37-a37737e53e24" configVersion="999607c31307892ee09d03927b61a70c56fe1ae3"/>
@@ -358,10 +358,11 @@
 			<Metadata name="InformationRegister.ксп_МэппингТипыСкладов.Dimension.Значение" id="fef243ee-b4ce-4b4d-ab53-0e283a18ec68"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_МэппингТипыСкладов.ManagerModule" id="52ce5519-16d0-49ba-bc82-af228a1c3bf0.2" configVersion="d97b74839cdc300ca4510c45630798afd97ebcd2"/>
-		<Metadata name="InformationRegister.ксп_ОтложенноеПроведение" id="e9e29782-c7dc-4106-ab2b-8ea7017bbeb3" configVersion="c3bfe0f127b77f631b80d8908f296664c1ed8896">
+		<Metadata name="InformationRegister.ксп_ОтложенноеПроведение" id="e9e29782-c7dc-4106-ab2b-8ea7017bbeb3" configVersion="f7a070e8e204079d7a4370bff4379ee488d11031">
 			<Metadata name="InformationRegister.ксп_ОтложенноеПроведение.Resource.СтатусОбъекта" id="3ae66c9d-ce9f-49ae-ba9b-75645973a647"/>
 			<Metadata name="InformationRegister.ксп_ОтложенноеПроведение.Dimension.ДокументСсылка" id="4d88984a-975b-4bc9-b1bc-d81575ae3b9e"/>
 		</Metadata>
+		<Metadata name="InformationRegister.ксп_ОтложенноеПроведение.ManagerModule" id="e9e29782-c7dc-4106-ab2b-8ea7017bbeb3.2" configVersion="93e65480aa7b54b92cc3e56d0cebcfb064e307ba"/>
 		<Metadata name="InformationRegister.ксп_ОтложенноеПроведениеПроблемы" id="e49a29cf-0c0d-496f-b968-f5e9885d8025" configVersion="66ca2b394ffcf60d348ac09cdd2b8b3da0524c5c">
 			<Metadata name="InformationRegister.ксп_ОтложенноеПроведениеПроблемы.Dimension.НомерСтрокиТЧ" id="1a51ed39-559d-4983-ab06-9b046df0f801"/>
 			<Metadata name="InformationRegister.ксп_ОтложенноеПроведениеПроблемы.Dimension.ИмяРеквизита" id="be1487ab-9494-4f4f-b34d-f4e1034b23d8"/>
