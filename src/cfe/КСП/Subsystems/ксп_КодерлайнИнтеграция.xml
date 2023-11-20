@@ -31,7 +31,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.ксп_КлассификаторПеречислений</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингВидыНоменклатуры</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникКонтрагенты</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Constant.УзелОбменаRabbitMQ</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.ксп_УзелОбменаRabbit</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_РасходныйОрдерНаТовары_ЕРП_ОтгружаемыеТовары</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_РасходныйОрдерНаТовары_ЕРП</xr:Item>

@@ -73,10 +73,11 @@
 			<CommonModule>ксп_ИмпортСлужебный</CommonModule>
 			<CommonModule>ксп_РегламентныеЗадания</CommonModule>
 			<CommonModule>ксп_ПодпискиНаСобытия</CommonModule>
+			<CommonModule>ксп_Блокировки</CommonModule>
 			<ExchangePlan>ксп_ОбменСЕРП</ExchangePlan>
 			<EventSubscription>ксп_ПриЗаписиДокумента</EventSubscription>
 			<EventSubscription>ксп_ПриЗаписиСправочника</EventSubscription>
-			<Constant>УзелОбменаRabbitMQ</Constant>
+			<Constant>ксп_УзелОбменаRabbit</Constant>
 			<Catalog>БазовыеЕдиницыИзмерения</Catalog>
 			<Catalog>БанковскиеСчета</Catalog>
 			<Catalog>ВидыНоменклатуры</Catalog>
