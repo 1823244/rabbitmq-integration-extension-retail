@@ -109,10 +109,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog.Номенклатура</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Document.ЗаказПокупателя</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
