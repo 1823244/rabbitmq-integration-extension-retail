@@ -244,6 +244,7 @@
 					<Type>
 						<v8:Type>cfg:CatalogRef.БанковскиеСчета</v8:Type>
 						<v8:Type>cfg:CatalogRef.Кассы</v8:Type>
+						<v8:Type>cfg:CatalogRef.ЭквайринговыеТерминалы</v8:Type>
 						<v8:Type>cfg:CatalogRef.КассыККМ</v8:Type>
 						<v8:Type>cfg:CatalogRef.Пользователи</v8:Type>
 						<v8:Type>cfg:CatalogRef.ВидыЦен</v8:Type>
@@ -289,6 +290,7 @@
 						<v8:Type>cfg:DocumentRef.РасходныйОрдерНаТовары</v8:Type>
 						<v8:Type>cfg:CatalogRef.ХарактеристикиНоменклатуры</v8:Type>
 						<v8:Type>cfg:DocumentRef.РасходныйКассовыйОрдер</v8:Type>
+						<v8:Type>cfg:CatalogRef.ВидыОплатЧекаККМ</v8:Type>
 						<v8:Type>cfg:DocumentRef.ВнесениеДенежныхСредствВКассуККМ</v8:Type>
 						<v8:Type>cfg:EnumRef.СпособыЗаданияЦен</v8:Type>
 						<v8:Type>cfg:CatalogRef.Номенклатура</v8:Type>

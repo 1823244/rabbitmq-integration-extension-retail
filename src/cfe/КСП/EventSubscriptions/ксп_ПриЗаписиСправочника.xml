@@ -19,7 +19,6 @@
 				<v8:Type>cfg:CatalogObject.Склады</v8:Type>
 				<v8:Type>cfg:CatalogObject.БазовыеЕдиницыИзмерения</v8:Type>
 				<v8:Type>cfg:CatalogObject.Пользователи</v8:Type>
-				<v8:Type>cfg:CatalogObject.Номенклатура</v8:Type>
 				<v8:Type>cfg:CatalogObject.ВидыНоменклатуры</v8:Type>
 				<v8:Type>cfg:CatalogObject.НаборыУпаковок</v8:Type>
 				<v8:Type>cfg:CatalogObject.ФорматыМагазинов</v8:Type>
