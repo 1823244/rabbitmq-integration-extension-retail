@@ -70,7 +70,7 @@
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="af4e9f25-cec3-4e30-8a49-02c78b713528.0" configVersion="4a20dd62e0909e2cef310b08369218eb3997e751"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d" configVersion="24d95ece84373faafe72c820bb69420519dd3e0f"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп.Module" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d.0" configVersion="b60abee78a9443a8a6497a5d9e6b5afb9fa506f8"/>
-		<Metadata name="Configuration.КСП" id="6e697993-1eb3-4989-81da-176f3ddfad76" configVersion="d37e29f1554aceeeb073716627551db5a2b1e128"/>
+		<Metadata name="Configuration.КСП" id="6e697993-1eb3-4989-81da-176f3ddfad76" configVersion="a58d62a1b7b895bdf0a76d410d71df68d81ce645"/>
 		<Metadata name="Constant.ксп_УзелОбменаRabbit" id="cf982a21-41b2-43a3-895d-569955aad763" configVersion="61a90b5c509490afd70e51fa9c74c3c980c291ad"/>
 		<Metadata name="DataProcessor.ксп_РегистрацияКОбмену" id="b140d2cc-c7f3-4f4e-bd4e-f344ab57c3c0" configVersion="a22a052c357a94e4c22b34953529aea3e8ebeef3">
 			<Metadata name="DataProcessor.ксп_РегистрацияКОбмену.Attribute.НастройкаКонтрольВыгрузкиОбъектов" id="364f1017-ffc0-487e-b2fe-d5f73b512a82"/>
@@ -116,6 +116,7 @@
 		<Metadata name="Document.РасходныйОрдерНаТовары" id="d6d05fd9-332c-4474-9d25-6b36d94f1925" configVersion="1beb5082b20f441182e700aa1a15d6b433719bc2"/>
 		<Metadata name="Document.РеализацияТоваров" id="ceaceccf-aeae-4ea1-8f3f-862797fee456" configVersion="16e4500b5685880d4261a4d7972fba724a736414"/>
 		<Metadata name="Document.СписаниеТоваров" id="e97097b8-6c7d-498d-bc43-da0eace6e3b9" configVersion="3ff8196a0aeb1b26e5288b87a7f2ad731128505b"/>
+		<Metadata name="Document.УстановкаЦенНоменклатуры" id="28a3f994-0fe1-4382-95b5-3a03b10d3ea1" configVersion="2657bc60c8c5d954dc87ea70479bb5b8599a7da1"/>
 		<Metadata name="Document.ЧекККМ" id="0ec63eae-d1c4-4b8c-8a8a-606e0180deb3" configVersion="12aa0baaaee07850f3543ae0f70575763e204e5c"/>
 		<Metadata name="Document.ЧекКоррекции" id="31bfe7a1-c9f4-4d38-9444-e47247909ae3" configVersion="5b32220344fd85d142c5267d0cbfa85919265fbd"/>
 		<Metadata name="Enum.РолиАссортимента" id="1eef504d-00e2-4415-a3d3-fc5bae19d4f5" configVersion="619a5ec13a81096b0897946dba9ce4df753e9d7e">
@@ -360,10 +361,14 @@
 			<Metadata name="InformationRegister.ксп_МэппингТипыСкладов.Dimension.Значение" id="fef243ee-b4ce-4b4d-ab53-0e283a18ec68"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_МэппингТипыСкладов.ManagerModule" id="52ce5519-16d0-49ba-bc82-af228a1c3bf0.2" configVersion="d97b74839cdc300ca4510c45630798afd97ebcd2"/>
-		<Metadata name="InformationRegister.ксп_ОтложенноеПроведение" id="e9e29782-c7dc-4106-ab2b-8ea7017bbeb3" configVersion="f7a070e8e204079d7a4370bff4379ee488d11031">
+		<Metadata name="InformationRegister.ксп_ОтложенноеПроведение" id="e9e29782-c7dc-4106-ab2b-8ea7017bbeb3" configVersion="ec18fc69f9d582a2dd32fd34268dec1fc089c58a">
+			<Metadata name="InformationRegister.ксп_ОтложенноеПроведение.Attribute.ДатаОбработки" id="06ad9fcb-491d-4a11-97a1-be0152a76885"/>
 			<Metadata name="InformationRegister.ксп_ОтложенноеПроведение.Resource.СтатусОбъекта" id="3ae66c9d-ce9f-49ae-ba9b-75645973a647"/>
 			<Metadata name="InformationRegister.ксп_ОтложенноеПроведение.Dimension.ДокументСсылка" id="4d88984a-975b-4bc9-b1bc-d81575ae3b9e"/>
+			<Metadata name="InformationRegister.ксп_ОтложенноеПроведение.Attribute.ОшибкаПроведения" id="b5852ee8-1832-4635-9843-f6ef34319ee3"/>
 		</Metadata>
+		<Metadata name="InformationRegister.ксп_ОтложенноеПроведение.Form.ФормаЗаписи" id="aa5e8057-a033-43ed-b385-2495073976b6" configVersion="1f89f826782556e7f0456d660a8500e1ba7a4cb8"/>
+		<Metadata name="InformationRegister.ксп_ОтложенноеПроведение.Form.ФормаЗаписи.Form" id="aa5e8057-a033-43ed-b385-2495073976b6.0" configVersion="8ab76bb4d7af07e390aa618e0cf1ed6094c6d01b"/>
 		<Metadata name="InformationRegister.ксп_ОтложенноеПроведение.ManagerModule" id="e9e29782-c7dc-4106-ab2b-8ea7017bbeb3.2" configVersion="93e65480aa7b54b92cc3e56d0cebcfb064e307ba"/>
 		<Metadata name="InformationRegister.ксп_ОтложенноеПроведениеПроблемы" id="e49a29cf-0c0d-496f-b968-f5e9885d8025" configVersion="66ca2b394ffcf60d348ac09cdd2b8b3da0524c5c">
 			<Metadata name="InformationRegister.ксп_ОтложенноеПроведениеПроблемы.Dimension.НомерСтрокиТЧ" id="1a51ed39-559d-4983-ab06-9b046df0f801"/>
