@@ -26,6 +26,7 @@
 			<ExtendedTooltip name="СтатусОбъектаРасширеннаяПодсказка" id="6"/>
 		</InputField>
 		<InputField name="СтатусПроведения" id="7">
+			<DataPath>Запись.СтатусПроведения</DataPath>
 			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ContextMenu name="СтатусПроведенияКонтекстноеМеню" id="8"/>
 			<ExtendedTooltip name="СтатусПроведенияРасширеннаяПодсказка" id="9"/>

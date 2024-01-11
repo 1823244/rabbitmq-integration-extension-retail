@@ -133,6 +133,7 @@
 			<Enum>СпособыЗаданияЦен</Enum>
 			<Enum>РолиАссортимента</Enum>
 			<Enum>СтадииАссортимента</Enum>
+			<Enum>КСП_СтатусыОтложенногоПроведения</Enum>
 			<DataProcessor>ксп_РегистрацияКОбмену</DataProcessor>
 			<InformationRegister>ксп_ДополнительныеНастройкиИнтеграций</InformationRegister>
 			<InformationRegister>ксп_ЗаказНаПеремещение_ЕРП</InformationRegister>
