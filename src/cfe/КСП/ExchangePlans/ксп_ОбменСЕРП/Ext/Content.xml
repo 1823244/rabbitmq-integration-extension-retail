@@ -33,6 +33,10 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
+		<Metadata>Document.ОрдерНаПеремещениеТоваров</Metadata>
+		<AutoRecord>Allow</AutoRecord>
+	</Item>
+	<Item>
 		<Metadata>Document.ОплатаОтПокупателяПлатежнойКартой</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
