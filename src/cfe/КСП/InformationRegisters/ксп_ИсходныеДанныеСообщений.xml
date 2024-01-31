@@ -36,7 +36,7 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Исходные данные сообщений (Кодерлайн)</v8:content>
+					<v8:content>Исходные данные сообщений (КСП)</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -333,7 +333,7 @@
 					<ChoiceForm/>
 					<LinkByType/>
 					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-					<Master>true</Master>
+					<Master>false</Master>
 					<MainFilter>true</MainFilter>
 					<DenyIncompleteValues>false</DenyIncompleteValues>
 					<Indexing>DontIndex</Indexing>
