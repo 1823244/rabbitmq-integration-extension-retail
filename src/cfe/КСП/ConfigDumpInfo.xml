@@ -109,7 +109,9 @@
 		<Metadata name="Document.ОприходованиеТоваров" id="ca6abcf9-299a-4b36-addd-6dc5cdb2de6e" configVersion="8879361673fab14bcead146cf8a2aeb2c5c86a6d"/>
 		<Metadata name="Document.ОрдерНаПеремещениеТоваров" id="3022e9b6-f7bf-4b7c-b7d0-4afebcc20500" configVersion="3d37074c3822a4ff6855df601b5f65a04e3cd059"/>
 		<Metadata name="Document.ОтчетОРозничныхПродажах" id="0d310227-ec10-479e-b59c-56e062ba8fa9" configVersion="8acea32d9e3db22f506a2f550ef946aecde09c55"/>
-		<Metadata name="Document.ПеремещениеТоваров" id="9e9be52a-7197-4373-8235-afed6d9fa21a" configVersion="0408bfea55dc5863d66ad05f21de967d211965c0"/>
+		<Metadata name="Document.ПеремещениеТоваров" id="9e9be52a-7197-4373-8235-afed6d9fa21a" configVersion="1ff82285abdfa9ac71c6d65d16cbe0a146bc31d4">
+			<Metadata name="Document.ПеремещениеТоваров.Attribute.КСП_НеНуженВЕРП" id="a8155d7b-66ed-45e9-8f0a-a1b24028d968"/>
+		</Metadata>
 		<Metadata name="Document.ПересортицаТоваров" id="1735c9e8-b59e-4c3d-9d1d-60b0ca530aa9" configVersion="5c243b1e9a4c67e599e28842b933b6c50ef6cc91"/>
 		<Metadata name="Document.ПриходныйКассовыйОрдер" id="b7da35d5-6aa5-4438-827b-d0ed62147b2b" configVersion="37ab4730e80f6c6ebad6456bc1a9b9d2bfe8ea34"/>
 		<Metadata name="Document.ПриходныйОрдерНаТовары" id="2bbbea5d-64e5-4f0d-9b4b-5399d58515fb" configVersion="0e4a8634147d67924f0e03b4ac724e4b3a5ac507"/>
@@ -261,8 +263,9 @@
 			<Metadata name="InformationRegister.ксп_ЗаказНаПеремещение_ЕРП_Товары.Attribute.ВариантОбеспеченияДоИзмененияОбновлениемИБ" id="e65bf985-c9d7-4808-9140-8fa8b4ebab49"/>
 			<Metadata name="InformationRegister.ксп_ЗаказНаПеремещение_ЕРП_Товары.Attribute.Обособленно" id="ea87487f-40a3-4427-9305-ac37ac327823"/>
 		</Metadata>
-		<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП" id="73b86aa0-37a8-4fca-bad8-65b1d12b034b" configVersion="54d80968dfa73f94d5f1b753641c11470ec7c2a6">
+		<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП" id="73b86aa0-37a8-4fca-bad8-65b1d12b034b" configVersion="48fc6797aa086448f6857fcffb1cf1a54d8492c4">
 			<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.Attribute.ДатаЗагрузкиИзЕРП" id="214da1b2-aabf-4c49-9246-947f5d036633"/>
+			<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.Attribute.ПредставлениеРО" id="3f02f73e-5c49-4981-96fd-6e7ebbe72924"/>
 			<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.Dimension.ЗаказНаПеремещениеГУИД" id="5caa3c5d-17b3-4f89-8f04-f726e90dff12"/>
 			<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.Attribute.ДатаОшибки" id="5d9ec967-ef52-43a9-ba6c-2dbfaf1252a1"/>
 			<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.Dimension.ВнешняяСистема" id="70623c90-3c68-4b7f-bec1-ca8a64f000fb"/>
@@ -271,6 +274,7 @@
 			<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.Attribute.ЭтоОшибкаСоздания" id="8ec8f62f-f271-4de5-82da-1f920eb2929a"/>
 			<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.Resource.ПриходныйОрдерНаТоварыРозница" id="c2f1e6d4-307a-4d8d-841e-bd584c95de3b"/>
 			<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.Attribute.ТекстОшибки" id="d71e8396-b9df-4ccb-ac46-eae879e7b1e8"/>
+			<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.Attribute.ПредставлениеЗаказа" id="db5df0d2-1eb5-410f-b8f0-65e56a26f916"/>
 			<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.Dimension.РасходныйОрдерГУИД" id="e3527f6f-fd17-46b7-8aab-bcd87f14c077"/>
 		</Metadata>
 		<Metadata name="InformationRegister.ксп_ИсточникДанныхДляПеремещенийТоваровИзЕРП.ManagerModule" id="73b86aa0-37a8-4fca-bad8-65b1d12b034b.2" configVersion="94fc9ada92252d93385b924d35415ede7e8d647e"/>
