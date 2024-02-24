@@ -162,6 +162,7 @@
 			<InformationRegister>ПрименениеСистемНалогообложения</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>Штрихкоды</InformationRegister>
+			<InformationRegister>ксп_Версии_Документ_ВнесениеДенежныхСредствВКассуККМ</InformationRegister>
 			<ChartOfCharacteristicTypes>ксп_ВнешниеПеречисления</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ТипыШтрихкодов</ChartOfCharacteristicTypes>
 		</ChildObjects>

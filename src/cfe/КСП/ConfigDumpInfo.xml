@@ -61,7 +61,7 @@
 		<Metadata name="CommonModule.ксп_Блокировки" id="daae8d7c-1f35-4dbb-918f-9270bf965eda" configVersion="1091c0389585d6c28a2551ced13d3922f1ff8e0c"/>
 		<Metadata name="CommonModule.ксп_Блокировки.Module" id="daae8d7c-1f35-4dbb-918f-9270bf965eda.0" configVersion="f8481cf5cdab1423365e10c81bcef9378e9900ff"/>
 		<Metadata name="CommonModule.ксп_ИмпортСлужебный" id="24c9f3eb-7351-4301-850f-281e51f2c7b6" configVersion="ddab8bfef28993930f6b7d2491c0d5ec8423a82f"/>
-		<Metadata name="CommonModule.ксп_ИмпортСлужебный.Module" id="24c9f3eb-7351-4301-850f-281e51f2c7b6.0" configVersion="ebb71b7cdb5fb28a0844744133023d5d837cee96"/>
+		<Metadata name="CommonModule.ксп_ИмпортСлужебный.Module" id="24c9f3eb-7351-4301-850f-281e51f2c7b6.0" configVersion="223538e6d0070432b04774571fad43d2cb2c43b7"/>
 		<Metadata name="CommonModule.ксп_ПодпискиНаСобытия" id="09b456c4-724e-4c62-b972-02e0a02a4258" configVersion="fe1efabddec5246b04e666f6ee24f80906c9d4c4"/>
 		<Metadata name="CommonModule.ксп_ПодпискиНаСобытия.Module" id="09b456c4-724e-4c62-b972-02e0a02a4258.0" configVersion="e0dff8e2d82287a64eba066fd1d44d8ba76c976b"/>
 		<Metadata name="CommonModule.ксп_РегламентныеЗадания" id="49f149fb-0dff-4f34-af37-a37737e53e24" configVersion="999607c31307892ee09d03927b61a70c56fe1ae3"/>
@@ -70,7 +70,7 @@
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебный.Module" id="af4e9f25-cec3-4e30-8a49-02c78b713528.0" configVersion="4a20dd62e0909e2cef310b08369218eb3997e751"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d" configVersion="24d95ece84373faafe72c820bb69420519dd3e0f"/>
 		<Metadata name="CommonModule.ксп_ЭкспортСлужебныйПовтИсп.Module" id="adbee0b7-b4c0-43bf-9f3c-c2ff09c50f1d.0" configVersion="b60abee78a9443a8a6497a5d9e6b5afb9fa506f8"/>
-		<Metadata name="Configuration.КСП" id="6e697993-1eb3-4989-81da-176f3ddfad76" configVersion="bd1583fa995e365ac47da09372c1cbaee11222bf"/>
+		<Metadata name="Configuration.КСП" id="6e697993-1eb3-4989-81da-176f3ddfad76" configVersion="4099e273925719b0ba4eca6a2ee4f7460d9b9579"/>
 		<Metadata name="Constant.ксп_УзелОбменаRabbit" id="cf982a21-41b2-43a3-895d-569955aad763" configVersion="61a90b5c509490afd70e51fa9c74c3c980c291ad"/>
 		<Metadata name="DataProcessor.ксп_РегистрацияКОбмену" id="b140d2cc-c7f3-4f4e-bd4e-f344ab57c3c0" configVersion="a22a052c357a94e4c22b34953529aea3e8ebeef3">
 			<Metadata name="DataProcessor.ксп_РегистрацияКОбмену.Attribute.НастройкаКонтрольВыгрузкиОбъектов" id="364f1017-ffc0-487e-b2fe-d5f73b512a82"/>
@@ -109,9 +109,10 @@
 		<Metadata name="Document.ОприходованиеТоваров" id="ca6abcf9-299a-4b36-addd-6dc5cdb2de6e" configVersion="8879361673fab14bcead146cf8a2aeb2c5c86a6d"/>
 		<Metadata name="Document.ОрдерНаПеремещениеТоваров" id="3022e9b6-f7bf-4b7c-b7d0-4afebcc20500" configVersion="3d37074c3822a4ff6855df601b5f65a04e3cd059"/>
 		<Metadata name="Document.ОтчетОРозничныхПродажах" id="0d310227-ec10-479e-b59c-56e062ba8fa9" configVersion="8acea32d9e3db22f506a2f550ef946aecde09c55"/>
-		<Metadata name="Document.ПеремещениеТоваров" id="9e9be52a-7197-4373-8235-afed6d9fa21a" configVersion="1ff82285abdfa9ac71c6d65d16cbe0a146bc31d4">
+		<Metadata name="Document.ПеремещениеТоваров" id="9e9be52a-7197-4373-8235-afed6d9fa21a" configVersion="af73ecb0b3b256d9976d68f7cf12dabd87725e3d">
 			<Metadata name="Document.ПеремещениеТоваров.Attribute.КСП_НеНуженВЕРП" id="a8155d7b-66ed-45e9-8f0a-a1b24028d968"/>
 		</Metadata>
+		<Metadata name="Document.ПеремещениеТоваров.ObjectModule" id="9e9be52a-7197-4373-8235-afed6d9fa21a.0" configVersion="c69c771db8d85328444804b01ce4a8f5860955cb"/>
 		<Metadata name="Document.ПересортицаТоваров" id="1735c9e8-b59e-4c3d-9d1d-60b0ca530aa9" configVersion="5c243b1e9a4c67e599e28842b933b6c50ef6cc91"/>
 		<Metadata name="Document.ПриходныйКассовыйОрдер" id="b7da35d5-6aa5-4438-827b-d0ed62147b2b" configVersion="37ab4730e80f6c6ebad6456bc1a9b9d2bfe8ea34"/>
 		<Metadata name="Document.ПриходныйОрдерНаТовары" id="2bbbea5d-64e5-4f0d-9b4b-5399d58515fb" configVersion="0e4a8634147d67924f0e03b4ac724e4b3a5ac507"/>
@@ -180,6 +181,13 @@
 			<Metadata name="InformationRegister.Штрихкоды.Dimension.Владелец" id="ded03d05-ea0a-43e5-9af1-8474c97646ea"/>
 			<Metadata name="InformationRegister.Штрихкоды.Dimension.Штрихкод" id="f488004f-b22c-41aa-9188-9406b8ae0a8c"/>
 		</Metadata>
+		<Metadata name="InformationRegister.ксп_Версии_Документ_ВнесениеДенежныхСредствВКассуККМ" id="f00453ee-76f5-4616-b27f-f27eec530bc3" configVersion="9ef891e53190a45249d4080cdba054d08fb06007">
+			<Metadata name="InformationRegister.ксп_Версии_Документ_ВнесениеДенежныхСредствВКассуККМ.Resource.ВерсияДанных" id="4e48039b-0161-4073-a408-e4b5365c5fe3"/>
+			<Metadata name="InformationRegister.ксп_Версии_Документ_ВнесениеДенежныхСредствВКассуККМ.Dimension.ДанныеСсылка" id="7d294880-83ee-4b14-8a3b-7e68a7bbdf97"/>
+			<Metadata name="InformationRegister.ксп_Версии_Документ_ВнесениеДенежныхСредствВКассуККМ.Dimension.ВнешняяСистема" id="856b2339-4a40-478e-bbd4-0825d1b3dd91"/>
+			<Metadata name="InformationRegister.ксп_Версии_Документ_ВнесениеДенежныхСредствВКассуККМ.Attribute.МоментЗаписи" id="e40e4d4a-b878-43c1-ad48-e29d19fdc7be"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ксп_Версии_Документ_ВнесениеДенежныхСредствВКассуККМ.ManagerModule" id="f00453ee-76f5-4616-b27f-f27eec530bc3.2" configVersion="af10e97a6d976e38d1d57abf313b9f50bbb9194d"/>
 		<Metadata name="InformationRegister.ксп_ДополнительныеНастройкиИнтеграций" id="a00c4fc7-9926-46f9-ad14-108607ee6470" configVersion="17f3834438f62be94e13f9376d82cda0419debba">
 			<Metadata name="InformationRegister.ксп_ДополнительныеНастройкиИнтеграций.Resource.ЗначениеНастройки" id="281d53c8-c04f-4529-b9c1-30ff1cebf80d"/>
 			<Metadata name="InformationRegister.ксп_ДополнительныеНастройкиИнтеграций.Dimension.ВнешняяСистема" id="2f52eeef-cf73-4b38-b4c4-55690ae829fd"/>
@@ -447,6 +455,6 @@
 		</Metadata>
 		<Metadata name="Language.Русский" id="cb75d87f-3b76-4bbf-908c-8c01681dc876" configVersion="403163a546ebaa6432af96351ca67ed89b1e83e8"/>
 		<Metadata name="Role.ксп_ОсновнаяРоль" id="ad83386e-a41b-4fd9-a8e0-f188f2a2319d" configVersion="2558786675e9a5465025a6a66e898685d930bc46"/>
-		<Metadata name="Subsystem.ксп_КодерлайнИнтеграция" id="dd7784a3-d103-4f97-8ab2-f7bdda87a4ca" configVersion="88ebafafb87912fd01120081bf62619d687536bf"/>
+		<Metadata name="Subsystem.ксп_КодерлайнИнтеграция" id="dd7784a3-d103-4f97-8ab2-f7bdda87a4ca" configVersion="46d432d66886b79786cf3a7a414560d1327516bc"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

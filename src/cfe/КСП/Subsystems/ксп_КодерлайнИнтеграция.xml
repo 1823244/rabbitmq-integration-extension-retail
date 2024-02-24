@@ -44,6 +44,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникФорматыМагазинов</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникВидыЦен</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_МэппингСправочникСтатьиДДС</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ксп_Версии_Документ_ВнесениеДенежныхСредствВКассуККМ</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
